@@ -1,0 +1,142 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 328,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "populationOf",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.61924,
+      "arguments": [
+        {
+          "text": "COVID-19",
+          "location": [
+            99,
+            107
+          ],
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "COVID-19"
+            }
+          ]
+        },
+        {
+          "text": "state",
+          "location": [
+            91,
+            96
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "state"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.495152,
+      "arguments": [
+        {
+          "text": "member",
+          "location": [
+            129,
+            135
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Steven Miles"
+            }
+          ]
+        },
+        {
+          "text": "staff",
+          "location": [
+            123,
+            128
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "staff"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "memberOf",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.522141,
+      "arguments": [
+        {
+          "text": "member",
+          "location": [
+            129,
+            135
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Steven Miles"
+            }
+          ]
+        },
+        {
+          "text": "Logan school",
+          "location": [
+            141,
+            153
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Logan school"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hasAttribute",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.441847,
+      "arguments": [
+        {
+          "text": "Logan school",
+          "location": [
+            141,
+            153
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Logan school"
+            }
+          ]
+        },
+        {
+          "text": "https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d",
+          "location": [
+            170,
+            326
+          ],
+          "entities": [
+            {
+              "type": "Web",
+              "text": "https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

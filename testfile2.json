@@ -1,0 +1,2445 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 278,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "\" asylum seeker Sara told @NassimKhadem",
+      "score": 0.996093,
+      "arguments": [
+        {
+          "text": "Sara",
+          "location": [
+            98,
+            102
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Sara"
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "location": [
+            103,
+            107
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "told"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 92,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "timeOf",
+      "sentence": "There are so many & too little time to make a list for the Darwin Awards regarding COVID-19.",
+      "score": 0.855329,
+      "arguments": [
+        {
+          "text": "COVID-19",
+          "location": [
+            83,
+            91
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "COVID-19"
+            }
+          ]
+        },
+        {
+          "text": "Darwin Awards",
+          "location": [
+            59,
+            72
+          ],
+          "entities": [
+            {
+              "type": "EntertainmentAward",
+              "text": "Darwin Awards"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 259,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "educatedAt",
+      "sentence": "I have a son in the high school class of 2021 who's ACTs keep getting cancelled in MA.",
+      "score": 0.453403,
+      "arguments": [
+        {
+          "text": "son",
+          "location": [
+            31,
+            34
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "son"
+            }
+          ]
+        },
+        {
+          "text": "high school",
+          "location": [
+            42,
+            53
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "high school",
+              "disambiguation": {
+                "subtype": [
+                  "Educational"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 329,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 32,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 124,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 193,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "ownerOf",
+      "sentence": "Exclusive: Buddy, first dog to test positive for COVID-19 in the U.S., has died https://www.nationalgeographic.com/animals/2020/07/first-dog-to-test-positive-for-covid-in-us-dies/ \u2026 via @NatGeo",
+      "score": 0.467516,
+      "arguments": [
+        {
+          "text": "Buddy",
+          "location": [
+            11,
+            16
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Buddy"
+            }
+          ]
+        },
+        {
+          "text": "dog",
+          "location": [
+            24,
+            27
+          ],
+          "entities": [
+            {
+              "type": "Animal",
+              "text": "dog"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 227,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 149,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 261,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "locatedAt",
+      "sentence": "Are you watching from the dungeon basement or in your local Covid Bar in NJ??",
+      "score": 0.757452,
+      "arguments": [
+        {
+          "text": "you",
+          "location": [
+            4,
+            7
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "your"
+            }
+          ]
+        },
+        {
+          "text": "basement",
+          "location": [
+            34,
+            42
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "basement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "locatedAt",
+      "sentence": "Are you watching from the dungeon basement or in your local Covid Bar in NJ??",
+      "score": 0.604563,
+      "arguments": [
+        {
+          "text": "Covid Bar",
+          "location": [
+            60,
+            69
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Covid Bar"
+            }
+          ]
+        },
+        {
+          "text": "NJ?",
+          "location": [
+            73,
+            76
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "NJ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 279,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 130,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 114,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "you've just said the servers are dogshit and have been for 2 years cause of covid i cba",
+      "score": 0.956347,
+      "arguments": [
+        {
+          "text": "you",
+          "location": [
+            0,
+            3
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "you"
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "location": [
+            12,
+            16
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "said"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 368,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "employedBy",
+      "sentence": "#twatwaffle GOP congressman who frequently refuses to wear a mask tests positive for Covid-19",
+      "score": 0.628585,
+      "arguments": [
+        {
+          "text": "congressman",
+          "location": [
+            16,
+            27
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "congressman"
+            }
+          ]
+        },
+        {
+          "text": "GOP",
+          "location": [
+            12,
+            15
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "GOP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "#twatwaffle GOP congressman who frequently refuses to wear a mask tests positive for Covid-19",
+      "score": 0.90313,
+      "arguments": [
+        {
+          "text": "who",
+          "location": [
+            28,
+            31
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "congressman"
+            }
+          ]
+        },
+        {
+          "text": "refuses",
+          "location": [
+            43,
+            50
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "refuses"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 307,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 173,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 244,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 246,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "Here's what he had to say during our last Panel Discussion.",
+      "score": 0.485759,
+      "arguments": [
+        {
+          "text": "he",
+          "location": [
+            167,
+            169
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "he"
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "location": [
+            177,
+            180
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "say"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 189,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 253,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 227,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 19,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 180,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 291,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "Connecticut COVID Cases Increase To 49,077 Deaths To 4,423 - Connecticut (2019-nCoV) - Recombinomics Inc. Connecticut COVID Cases Increase To  49,077 Deaths To 4,423 https://recombinomics.co/topic/11956-connecticut-covid-cases-increase-to-49077-deaths-to-4423/?do=findComment&comment=25551 \u2026",
+      "score": 0.927591,
+      "arguments": [
+        {
+          "text": "Connecticut COVID",
+          "location": [
+            0,
+            17
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Connecticut COVID"
+            }
+          ]
+        },
+        {
+          "text": "Cases",
+          "location": [
+            18,
+            23
+          ],
+          "entities": [
+            {
+              "type": "EventLegal",
+              "text": "Cases"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "populationOf",
+      "sentence": "Connecticut COVID Cases Increase To 49,077 Deaths To 4,423 - Connecticut (2019-nCoV) - Recombinomics Inc. Connecticut COVID Cases Increase To  49,077 Deaths To 4,423 https://recombinomics.co/topic/11956-connecticut-covid-cases-increase-to-49077-deaths-to-4423/?do=findComment&comment=25551 \u2026",
+      "score": 0.548183,
+      "arguments": [
+        {
+          "text": "49,077",
+          "location": [
+            36,
+            42
+          ],
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "49,077"
+            }
+          ]
+        },
+        {
+          "text": "Connecticut COVID",
+          "location": [
+            0,
+            17
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "Connecticut COVID"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 271,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 223,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "@JoyAnnReid Someone needs to look into who bought Kodak stock prior to Trump announcing he was throwing hundreds of millions of dollars to a former camera co.  to fight COVID @washingtonpost @nytimes @maddow @allinwithchris",
+      "score": 0.938825,
+      "arguments": [
+        {
+          "text": "Trump",
+          "location": [
+            71,
+            76
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Trump",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "announcing",
+          "location": [
+            77,
+            87
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "announcing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hasAttribute",
+      "sentence": "@JoyAnnReid Someone needs to look into who bought Kodak stock prior to Trump announcing he was throwing hundreds of millions of dollars to a former camera co.  to fight COVID @washingtonpost @nytimes @maddow @allinwithchris",
+      "score": 0.544911,
+      "arguments": [
+        {
+          "text": "Trump",
+          "location": [
+            71,
+            76
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Trump",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "hundreds of millions of dollars",
+          "location": [
+            104,
+            135
+          ],
+          "entities": [
+            {
+              "type": "Money",
+              "text": "hundreds of millions of dollars",
+              "disambiguation": {
+                "subtype": [
+                  "Gainloss"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hasAttribute",
+      "sentence": "@JoyAnnReid Someone needs to look into who bought Kodak stock prior to Trump announcing he was throwing hundreds of millions of dollars to a former camera co.  to fight COVID @washingtonpost @nytimes @maddow @allinwithchris",
+      "score": 0.865239,
+      "arguments": [
+        {
+          "text": "he",
+          "location": [
+            88,
+            90
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Someone"
+            }
+          ]
+        },
+        {
+          "text": "hundreds of millions of dollars",
+          "location": [
+            104,
+            135
+          ],
+          "entities": [
+            {
+              "type": "Money",
+              "text": "hundreds of millions of dollars",
+              "disambiguation": {
+                "subtype": [
+                  "Gainloss"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 18,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 268,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "I'm going to write a 50 page rambling Letter To The Editor to The Acorn on why 5G is causing birds to fall out of the sky, COVID is fake, and how brew pubs on TO blvd are the result of the devil influencing the TO City Council, and it's all Kyle's fault.",
+      "score": 0.709365,
+      "arguments": [
+        {
+          "text": "I",
+          "location": [
+            14,
+            15
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "I"
+            }
+          ]
+        },
+        {
+          "text": "write",
+          "location": [
+            27,
+            32
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "write"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 84,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 183,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "locatedAt",
+      "sentence": "Watching Fox \"News\" Getting a Root Canal Watching ThunderCats Roar Cleaning the bathrooms at Grand Central Station...WITH YOUR TONGUE COVID-19 #MoscowMitch The song \"Indian Love Song\"",
+      "score": 0.940529,
+      "arguments": [
+        {
+          "text": "bathrooms",
+          "location": [
+            80,
+            89
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "bathrooms"
+            }
+          ]
+        },
+        {
+          "text": "Grand Central Station",
+          "location": [
+            93,
+            114
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "Grand Central Station"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 328,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "No wonder Andrews calling in local and Northern Hospital nurses.",
+      "score": 0.993159,
+      "arguments": [
+        {
+          "text": "Andrews",
+          "location": [
+            93,
+            100
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Andrews"
+            }
+          ]
+        },
+        {
+          "text": "calling",
+          "location": [
+            101,
+            108
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "calling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "educatedAt",
+      "sentence": "Aspen Medical brought into St Basil's to stem COVID outbreak https://www.abc.net.au/radionational/programs/breakfast/aspen-brought-into-st-basils-to-stem-covid-outbreak/12501458 \u2026",
+      "score": 0.498927,
+      "arguments": [
+        {
+          "text": "Basil",
+          "location": [
+            179,
+            184
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Basil"
+            }
+          ]
+        },
+        {
+          "text": "St",
+          "location": [
+            176,
+            178
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "St",
+              "disambiguation": {
+                "subtype": [
+                  "Educational"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "affectedBy",
+      "sentence": "Aspen Medical brought into St Basil's to stem COVID outbreak https://www.abc.net.au/radionational/programs/breakfast/aspen-brought-into-st-basils-to-stem-covid-outbreak/12501458 \u2026",
+      "score": 0.303996,
+      "arguments": [
+        {
+          "text": "https://www.abc.net.au/radionational/programs/breakfast/aspen",
+          "location": [
+            210,
+            271
+          ],
+          "entities": [
+            {
+              "type": "Web",
+              "text": "https://www.abc.net.au/radionational/programs/breakfast/aspen"
+            }
+          ]
+        },
+        {
+          "text": "outbreak",
+          "location": [
+            201,
+            209
+          ],
+          "entities": [
+            {
+              "type": "NaturalDisaster",
+              "text": "outbreak"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 308,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "participantIn",
+      "sentence": "@JoyAnnReid is discussing Mitch McConnell's vs the Democrats' COVID relief efforts now on #TheReidOut.",
+      "score": 0.683023,
+      "arguments": [
+        {
+          "text": "Mitch McConnell",
+          "location": [
+            26,
+            41
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Mitch McConnell"
+            }
+          ]
+        },
+        {
+          "text": "discussing",
+          "location": [
+            15,
+            25
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "discussing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "participantIn",
+      "sentence": "@JoyAnnReid is discussing Mitch McConnell's vs the Democrats' COVID relief efforts now on #TheReidOut.",
+      "score": 0.496144,
+      "arguments": [
+        {
+          "text": "Democrats",
+          "location": [
+            51,
+            60
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Democrats"
+            }
+          ]
+        },
+        {
+          "text": "discussing",
+          "location": [
+            15,
+            25
+          ],
+          "entities": [
+            {
+              "type": "EventMeeting",
+              "text": "discussing"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 328,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "populationOf",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.61924,
+      "arguments": [
+        {
+          "text": "COVID-19",
+          "location": [
+            99,
+            107
+          ],
+          "entities": [
+            {
+              "type": "Cardinal",
+              "text": "COVID-19"
+            }
+          ]
+        },
+        {
+          "text": "state",
+          "location": [
+            91,
+            96
+          ],
+          "entities": [
+            {
+              "type": "GeopoliticalEntity",
+              "text": "state"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.495152,
+      "arguments": [
+        {
+          "text": "member",
+          "location": [
+            129,
+            135
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Steven Miles"
+            }
+          ]
+        },
+        {
+          "text": "staff",
+          "location": [
+            123,
+            128
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "staff"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "memberOf",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.522141,
+      "arguments": [
+        {
+          "text": "member",
+          "location": [
+            129,
+            135
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "Steven Miles"
+            }
+          ]
+        },
+        {
+          "text": "Logan school",
+          "location": [
+            141,
+            153
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Logan school"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hasAttribute",
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
+      "score": 0.441847,
+      "arguments": [
+        {
+          "text": "Logan school",
+          "location": [
+            141,
+            153
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Logan school"
+            }
+          ]
+        },
+        {
+          "text": "https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d",
+          "location": [
+            170,
+            326
+          ],
+          "entities": [
+            {
+              "type": "Web",
+              "text": "https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 117,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 132,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 231,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 75,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 256,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "partOf",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
+      "score": 0.79845,
+      "arguments": [
+        {
+          "text": "schools",
+          "location": [
+            4,
+            11
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "schools",
+              "disambiguation": {
+                "subtype": [
+                  "Educational"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Our",
+          "location": [
+            0,
+            3
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Our"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "employedBy",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
+      "score": 0.300897,
+      "arguments": [
+        {
+          "text": "I",
+          "location": [
+            38,
+            39
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "I"
+            }
+          ]
+        },
+        {
+          "text": "schools",
+          "location": [
+            4,
+            11
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "schools",
+              "disambiguation": {
+                "subtype": [
+                  "Educational"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
+      "score": 0.80208,
+      "arguments": [
+        {
+          "text": "I",
+          "location": [
+            38,
+            39
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "I"
+            }
+          ]
+        },
+        {
+          "text": "informed",
+          "location": [
+            48,
+            56
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "informed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "affectedBy",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
+      "score": 0.577698,
+      "arguments": [
+        {
+          "text": "teachers",
+          "location": [
+            62,
+            70
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "teachers"
+            }
+          ]
+        },
+        {
+          "text": "informed",
+          "location": [
+            48,
+            56
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "informed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 276,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 146,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 135,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 189,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 307,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 274,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 268,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 110,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "hasAttribute",
+      "sentence": "What Back to School Might Look Like in the Age of Covid-19  https://twitter.com/i/events/1288909775368081416 \u2026",
+      "score": 0.470548,
+      "arguments": [
+        {
+          "text": "Age of",
+          "location": [
+            43,
+            49
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Age of"
+            }
+          ]
+        },
+        {
+          "text": "https://twitter.com/i/events/",
+          "location": [
+            60,
+            89
+          ],
+          "entities": [
+            {
+              "type": "Web",
+              "text": "https://twitter.com/i/events/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 156,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
+      "score": 0.966845,
+      "arguments": [
+        {
+          "text": "mom",
+          "location": [
+            11,
+            14
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "mom"
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "location": [
+            15,
+            19
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "told"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "affectedBy",
+      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
+      "score": 0.938089,
+      "arguments": [
+        {
+          "text": "me",
+          "location": [
+            20,
+            22
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "she"
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "location": [
+            15,
+            19
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "told"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
+      "score": 0.840852,
+      "arguments": [
+        {
+          "text": "today",
+          "location": [
+            35,
+            40
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "today"
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "location": [
+            15,
+            19
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "told"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 116,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 65,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 52,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 63,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 178,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 159,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 241,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 278,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 62,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 39,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 74,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 169,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "You realize he doesn't have say in a lot of what a state does.",
+      "score": 0.608664,
+      "arguments": [
+        {
+          "text": "he",
+          "location": [
+            12,
+            14
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "location": [
+            28,
+            31
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "He can't say they have to do this or that.",
+      "score": 0.94411,
+      "arguments": [
+        {
+          "text": "He",
+          "location": [
+            74,
+            76
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "You"
+            }
+          ]
+        },
+        {
+          "text": "say",
+          "location": [
+            83,
+            86
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "say"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 107,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 153,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 99,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "hasAttribute",
+      "sentence": "19 year died of Covid and she suffered from asthma.",
+      "score": 0.837672,
+      "arguments": [
+        {
+          "text": "she",
+          "location": [
+            26,
+            29
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "she"
+            }
+          ]
+        },
+        {
+          "text": "asthma",
+          "location": [
+            44,
+            50
+          ],
+          "entities": [
+            {
+              "type": "HealthCondition",
+              "text": "asthma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "relative",
+      "sentence": "\ud83e\udd7a\ud83e\udd7a my condolences to her family and loved ones.",
+      "score": 0.45941,
+      "arguments": [
+        {
+          "text": "her",
+          "location": [
+            73,
+            76
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "she"
+            }
+          ]
+        },
+        {
+          "text": "family",
+          "location": [
+            77,
+            83
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "family"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 124,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 160,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 256,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "parentOf",
+      "sentence": "My wonderful much loved mother in law died last year in her nineties and we miss her terribly.",
+      "score": 0.388492,
+      "arguments": [
+        {
+          "text": "My",
+          "location": [
+            0,
+            2
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "my"
+            }
+          ]
+        },
+        {
+          "text": "mother",
+          "location": [
+            24,
+            30
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "mother"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "diedOn",
+      "sentence": "My wonderful much loved mother in law died last year in her nineties and we miss her terribly.",
+      "score": 0.487531,
+      "arguments": [
+        {
+          "text": "mother",
+          "location": [
+            24,
+            30
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "mother"
+            }
+          ]
+        },
+        {
+          "text": "last year",
+          "location": [
+            43,
+            52
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "last year"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "partOfMany",
+      "sentence": "What a tragedy for us all if she'd died 10 years earlier.",
+      "score": 0.576495,
+      "arguments": [
+        {
+          "text": "she",
+          "location": [
+            124,
+            127
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "mother"
+            }
+          ]
+        },
+        {
+          "text": "us",
+          "location": [
+            114,
+            116
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "we"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 242,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "These brave doctors just said ... HCQ and Zinc is the COVID-19 Cure!!!  ... 1) HCQ - 200mg, twice per  week ... 2) Zinc - Daily!!! ...  That's it, clear and simply truth!!! \ud83d\ude4f\ud83d\ude4c\ud83e\udd2d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f https://twitter.com/x22report/status/1287834119263719424 \u2026",
+      "score": 0.921346,
+      "arguments": [
+        {
+          "text": "doctors",
+          "location": [
+            12,
+            19
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "doctors"
+            }
+          ]
+        },
+        {
+          "text": "said",
+          "location": [
+            25,
+            29
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "said"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 87,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 226,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 151,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 187,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 253,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 220,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 78,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 60,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 294,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "locatedAt",
+      "sentence": "ARE THEY  (the Mosque leaders)  also rioting  & brawling too ?",
+      "score": 0.314343,
+      "arguments": [
+        {
+          "text": "leaders",
+          "location": [
+            189,
+            196
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "leaders"
+            }
+          ]
+        },
+        {
+          "text": "Mosque",
+          "location": [
+            182,
+            188
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "Mosque"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 181,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 96,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 113,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 155,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 58,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 142,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "locatedAt",
+      "sentence": "That is a little different than housing covid patients in nursing homes!",
+      "score": 0.321721,
+      "arguments": [
+        {
+          "text": "patients",
+          "location": [
+            46,
+            54
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        },
+        {
+          "text": "nursing",
+          "location": [
+            58,
+            65
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "nursing",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "locatedAt",
+      "sentence": "That is a little different than housing covid patients in nursing homes!",
+      "score": 0.911775,
+      "arguments": [
+        {
+          "text": "patients",
+          "location": [
+            46,
+            54
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        },
+        {
+          "text": "homes",
+          "location": [
+            66,
+            71
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "homes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ownerOf",
+      "sentence": "That is a little different than housing covid patients in nursing homes!",
+      "score": 0.344194,
+      "arguments": [
+        {
+          "text": "nursing",
+          "location": [
+            58,
+            65
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "nursing",
+              "disambiguation": {
+                "subtype": [
+                  "Commercial"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "homes",
+          "location": [
+            66,
+            71
+          ],
+          "entities": [
+            {
+              "type": "Facility",
+              "text": "homes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "They weren't allowed any visitors and died alone- they were murdered!",
+      "score": 0.507232,
+      "arguments": [
+        {
+          "text": "They",
+          "location": [
+            73,
+            77
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "patients"
+            }
+          ]
+        },
+        {
+          "text": "murdered",
+          "location": [
+            133,
+            141
+          ],
+          "entities": [
+            {
+              "type": "Crime",
+              "text": "murdered"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 223,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 205,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 147,
+    "features": 1
+  },
+  "relations": [
+    {
+      "type": "parentOf",
+      "sentence": "Can't even go and see my grandmother get buried.",
+      "score": 0.298312,
+      "arguments": [
+        {
+          "text": "my",
+          "location": [
+            50,
+            52
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "my"
+            }
+          ]
+        },
+        {
+          "text": "grandmother",
+          "location": [
+            53,
+            64
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "grandmother"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "awardedTo",
+      "sentence": "\ud83d\ude2d\ud83d\ude22\ud83d\ude2d Can't even sing her favorite song on her burial day for her.",
+      "score": 0.60958,
+      "arguments": [
+        {
+          "text": "favorite song",
+          "location": [
+            101,
+            114
+          ],
+          "entities": [
+            {
+              "type": "EntertainmentAward",
+              "text": "favorite song"
+            }
+          ]
+        },
+        {
+          "text": "her",
+          "location": [
+            97,
+            100
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "grandmother"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 275,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 85,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 274,
+    "features": 1
+  },
+  "relations": [],
+  "language": "en"
+}
