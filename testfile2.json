@@ -1,8 +1,8 @@
-{
+﻿{
   "usage": {
     "text_units": 1,
     "text_characters": 278,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -39,12 +39,84 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "dire situation",
+      "sentiment": {
+        "score": -0.867758,
+        "label": "negative"
+      },
+      "relevance": 0.931597,
+      "emotion": {
+        "sadness": 0.441478,
+        "joy": 0.141122,
+        "fear": 0.1482,
+        "disgust": 0.294037,
+        "anger": 0.149088
+      },
+      "count": 1
+    },
+    {
+      "text": "asylum seeker Sara",
+      "sentiment": {
+        "score": -0.727359,
+        "label": "negative"
+      },
+      "relevance": 0.869272,
+      "emotion": {
+        "sadness": 0.178773,
+        "joy": 0.12964,
+        "fear": 0.068664,
+        "disgust": 0.113444,
+        "anger": 0.140361
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@NassimKhadem",
+      "sentiment": {
+        "score": -0.727359,
+        "label": "negative"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.178773,
+        "joy": 0.12964,
+        "fear": 0.068664,
+        "disgust": 0.113444,
+        "anger": 0.140361
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "TwitterHandle",
+      "text": "@OzRefugeeCounc",
+      "sentiment": {
+        "score": -0.867758,
+        "label": "negative"
+      },
+      "relevance": 0.856812,
+      "emotion": {
+        "sadness": 0.441478,
+        "joy": 0.141122,
+        "fear": 0.1482,
+        "disgust": 0.294037,
+        "anger": 0.149088
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 92,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -81,12 +153,47 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "little time",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.989707,
+      "emotion": {
+        "sadness": 0.146956,
+        "joy": 0.251614,
+        "fear": 0.163286,
+        "disgust": 0.059183,
+        "anger": 0.058272
+      },
+      "count": 1
+    },
+    {
+      "text": "Darwin Awards",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.649519,
+      "emotion": {
+        "sadness": 0.146956,
+        "joy": 0.251614,
+        "fear": 0.163286,
+        "disgust": 0.059183,
+        "anger": 0.058272
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 259,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -128,49 +235,321 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "high school class",
+      "sentiment": {
+        "score": -0.774265,
+        "label": "negative"
+      },
+      "relevance": 0.880004,
+      "emotion": {
+        "sadness": 0.636938,
+        "joy": 0.034679,
+        "fear": 0.163851,
+        "disgust": 0.153504,
+        "anger": 0.289665
+      },
+      "count": 1
+    },
+    {
+      "text": "families",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.667375,
+      "emotion": {
+        "sadness": 0.311519,
+        "joy": 0.236232,
+        "fear": 0.248639,
+        "disgust": 0.096112,
+        "anger": 0.0864
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@mariastephanos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0.880435,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Location",
+      "text": "MA",
+      "sentiment": {
+        "score": -0.690797,
+        "label": "negative"
+      },
+      "relevance": 0.397717,
+      "emotion": {
+        "sadness": 0.608891,
+        "joy": 0.026857,
+        "fear": 0.244303,
+        "disgust": 0.127084,
+        "anger": 0.256352
+      },
+      "count": 2,
+      "confidence": 0.998995
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 74,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "velho maldito",
+      "sentiment": {
+        "score": -0.99634,
+        "label": "negative"
+      },
+      "relevance": 0.714438,
+      "emotion": {
+        "sadness": 0.221857,
+        "joy": 0.254644,
+        "fear": 0.093589,
+        "disgust": 0.046757,
+        "anger": 0.08487
+      },
+      "count": 1
+    },
+    {
+      "text": "Queria pegar COVID só pra tossir na cara",
+      "sentiment": {
+        "score": -0.99634,
+        "label": "negative"
+      },
+      "relevance": 0.57085,
+      "emotion": {
+        "sadness": 0.221857,
+        "joy": 0.254644,
+        "fear": 0.093589,
+        "disgust": 0.046757,
+        "anger": 0.08487
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "cara",
+      "sentiment": {
+        "score": -0.99634,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.221857,
+        "joy": 0.254644,
+        "fear": 0.093589,
+        "disgust": 0.046757,
+        "anger": 0.08487
+      },
+      "count": 1,
+      "confidence": 0.980606
+    },
+    {
+      "type": "Person",
+      "text": "caralho",
+      "sentiment": {
+        "score": -0.99634,
+        "label": "negative"
+      },
+      "relevance": 0.190355,
+      "emotion": {
+        "sadness": 0.221857,
+        "joy": 0.254644,
+        "fear": 0.093589,
+        "disgust": 0.046757,
+        "anger": 0.08487
+      },
+      "count": 1,
+      "confidence": 0.247504
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 329,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "gossip",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.803861,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    },
+    {
+      "text": "www.elsoldesinaloa.com.mx",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.752056,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#Gossip",
+      "sentiment": {
+        "score": -0.975461,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.054964,
+        "joy": 0.141382,
+        "fear": 0.073971,
+        "disgust": 0.097557,
+        "anger": 0.040149
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "TwitterHandle",
+      "text": "@Madonnahttps",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.490985,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 32,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 124,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "emocional en tiempos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.98757,
+      "emotion": {
+        "sadness": 0.224777,
+        "joy": 0.44941,
+        "fear": 0.137759,
+        "disgust": 0.098731,
+        "anger": 0.03099
+      },
+      "count": 1
+    },
+    {
+      "text": "Covid-19 https://www.facebook.com/watch/?v=740848266728025",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.52711,
+      "emotion": {
+        "sadness": 0.224777,
+        "joy": 0.44941,
+        "fear": 0.137759,
+        "disgust": 0.098731,
+        "anger": 0.03099
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@FacebookWatch",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.224777,
+        "joy": 0.44941,
+        "fear": 0.137759,
+        "disgust": 0.098731,
+        "anger": 0.03099
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 193,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
       "type": "ownerOf",
-      "sentence": "Exclusive: Buddy, first dog to test positive for COVID-19 in the U.S., has died https://www.nationalgeographic.com/animals/2020/07/first-dog-to-test-positive-for-covid-in-us-dies/ \u2026 via @NatGeo",
+      "sentence": "Exclusive: Buddy, first dog to test positive for COVID-19 in the U.S., has died https://www.nationalgeographic.com/animals/2020/07/first-dog-to-test-positive-for-covid-in-us-dies/ … via @NatGeo",
       "score": 0.467516,
       "arguments": [
         {
@@ -202,36 +581,208 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "test positive",
+      "sentiment": {
+        "score": -0.654351,
+        "label": "negative"
+      },
+      "relevance": 0.973735,
+      "emotion": {
+        "sadness": 0.2193,
+        "joy": 0.622081,
+        "fear": 0.197407,
+        "disgust": 0.014134,
+        "anger": 0.009917
+      },
+      "count": 1
+    },
+    {
+      "text": "first dog",
+      "sentiment": {
+        "score": -0.654351,
+        "label": "negative"
+      },
+      "relevance": 0.947548,
+      "emotion": {
+        "sadness": 0.2193,
+        "joy": 0.622081,
+        "fear": 0.197407,
+        "disgust": 0.014134,
+        "anger": 0.009917
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "U.S.",
+      "sentiment": {
+        "score": -0.654351,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.2193,
+        "joy": 0.622081,
+        "fear": 0.197407,
+        "disgust": 0.014134,
+        "anger": 0.009917
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "Country",
+          "GovernmentalJurisdiction",
+          "FilmEditor"
+        ],
+        "name": "United_States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 1,
+      "confidence": 0.999177
+    },
+    {
+      "type": "TwitterHandle",
+      "text": "@NatGeo",
+      "sentiment": {
+        "score": -0.654351,
+        "label": "negative"
+      },
+      "relevance": 0.098813,
+      "emotion": {
+        "sadness": 0.2193,
+        "joy": 0.622081,
+        "fear": 0.197407,
+        "disgust": 0.014134,
+        "anger": 0.009917
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 227,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "América Latina",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.057354,
+        "joy": 0.073578,
+        "fear": 0.069416,
+        "disgust": 0.112634,
+        "anger": 0.303149
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 149,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "私も週に数回立ち寄る近所の店で店員がCOVID-19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    },
+    {
+      "text": "某県でCOVID-19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 261,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "near future",
+      "sentiment": {
+        "score": 0.301457,
+        "label": "positive"
+      },
+      "relevance": 0.967072,
+      "emotion": {
+        "sadness": 0.205666,
+        "joy": 0.263036,
+        "fear": 0.194963,
+        "disgust": 0.033534,
+        "anger": 0.054764
+      },
+      "count": 1
+    },
+    {
+      "text": "damn school building",
+      "sentiment": {
+        "score": -0.880232,
+        "label": "negative"
+      },
+      "relevance": 0.723263,
+      "emotion": {
+        "sadness": 0.296759,
+        "joy": 0.109524,
+        "fear": 0.418756,
+        "disgust": 0.176727,
+        "anger": 0.309419
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 77,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -301,36 +852,269 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "dungeon basement",
+      "sentiment": {
+        "score": -0.661214,
+        "label": "negative"
+      },
+      "relevance": 0.951372,
+      "emotion": {
+        "sadness": 0.464784,
+        "joy": 0.10847,
+        "fear": 0.143225,
+        "disgust": 0.225789,
+        "anger": 0.127494
+      },
+      "count": 1
+    },
+    {
+      "text": "local Covid Bar",
+      "sentiment": {
+        "score": -0.661214,
+        "label": "negative"
+      },
+      "relevance": 0.678486,
+      "emotion": {
+        "sadness": 0.464784,
+        "joy": 0.10847,
+        "fear": 0.143225,
+        "disgust": 0.225789,
+        "anger": 0.127494
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "NJ",
+      "sentiment": {
+        "score": -0.661214,
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.464784,
+        "joy": 0.10847,
+        "fear": 0.143225,
+        "disgust": 0.225789,
+        "anger": 0.127494
+      },
+      "count": 1,
+      "confidence": 0.999008
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 279,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COVID positive",
+      "sentiment": {
+        "score": 0.670306,
+        "label": "positive"
+      },
+      "relevance": 0.81649,
+      "emotion": {
+        "sadness": 0.080941,
+        "joy": 0.601457,
+        "fear": 0.177524,
+        "disgust": 0.013175,
+        "anger": 0.052425
+      },
+      "count": 2
+    },
+    {
+      "text": "age",
+      "sentiment": {
+        "score": 0.647386,
+        "label": "positive"
+      },
+      "relevance": 0.776215,
+      "emotion": {
+        "sadness": 0.080941,
+        "joy": 0.601457,
+        "fear": 0.177524,
+        "disgust": 0.013175,
+        "anger": 0.052425
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "2 days",
+      "sentiment": {
+        "score": 0.647386,
+        "label": "positive"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.090787,
+        "joy": 0.502718,
+        "fear": 0.148045,
+        "disgust": 0.017049,
+        "anger": 0.049833
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Quantity",
+      "text": "14 days",
+      "sentiment": {
+        "score": 0.69404,
+        "label": "positive"
+      },
+      "relevance": 0.452832,
+      "emotion": {
+        "sadness": 0.081966,
+        "joy": 0.721481,
+        "fear": 0.149075,
+        "disgust": 0.013027,
+        "anger": 0.044013
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 130,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "JULY links",
+      "sentiment": {
+        "score": -0.721099,
+        "label": "negative"
+      },
+      "relevance": 0.999749,
+      "emotion": {
+        "sadness": 0.17027,
+        "joy": 0.144188,
+        "fear": 0.214607,
+        "disgust": 0.046793,
+        "anger": 0.117151
+      },
+      "count": 1
+    },
+    {
+      "text": "CORONAVIRUS",
+      "sentiment": {
+        "score": -0.721099,
+        "label": "negative"
+      },
+      "relevance": 0.000251,
+      "emotion": {
+        "sadness": 0.17027,
+        "joy": 0.144188,
+        "fear": 0.214607,
+        "disgust": 0.046793,
+        "anger": 0.117151
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#virus",
+      "sentiment": {
+        "score": -0.721099,
+        "label": "negative"
+      },
+      "relevance": 0.954265,
+      "emotion": {
+        "sadness": 0.17027,
+        "joy": 0.144188,
+        "fear": 0.214607,
+        "disgust": 0.046793,
+        "anger": 0.117151
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#pandemic",
+      "sentiment": {
+        "score": -0.721099,
+        "label": "negative"
+      },
+      "relevance": 0.751589,
+      "emotion": {
+        "sadness": 0.17027,
+        "joy": 0.144188,
+        "fear": 0.214607,
+        "disgust": 0.046793,
+        "anger": 0.117151
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 114,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "vaccine",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.660062,
+      "emotion": {
+        "sadness": 0.354174,
+        "joy": 0.323344,
+        "fear": 0.132635,
+        "disgust": 0.286614,
+        "anger": 0.005021
+      },
+      "count": 1
+    },
+    {
+      "text": "COVID",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.485467,
+      "emotion": {
+        "sadness": 0.354174,
+        "joy": 0.323344,
+        "fear": 0.132635,
+        "disgust": 0.286614,
+        "anger": 0.005021
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 87,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -367,12 +1151,84 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "years cause of covid",
+      "sentiment": {
+        "score": -0.955963,
+        "label": "negative"
+      },
+      "relevance": 0.864605,
+      "emotion": {
+        "sadness": 0.683073,
+        "joy": 0.037836,
+        "fear": 0.093485,
+        "disgust": 0.091203,
+        "anger": 0.158359
+      },
+      "count": 1
+    },
+    {
+      "text": "servers",
+      "sentiment": {
+        "score": -0.955963,
+        "label": "negative"
+      },
+      "relevance": 0.755845,
+      "emotion": {
+        "sadness": 0.683073,
+        "joy": 0.037836,
+        "fear": 0.093485,
+        "disgust": 0.091203,
+        "anger": 0.158359
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "2 years",
+      "sentiment": {
+        "score": -0.955963,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.683073,
+        "joy": 0.037836,
+        "fear": 0.093485,
+        "disgust": 0.091203,
+        "anger": 0.158359
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Organization",
+      "text": "cba",
+      "sentiment": {
+        "score": -0.955963,
+        "label": "negative"
+      },
+      "relevance": 0.043238,
+      "emotion": {
+        "sadness": 0.683073,
+        "joy": 0.037836,
+        "fear": 0.093485,
+        "disgust": 0.091203,
+        "anger": 0.158359
+      },
+      "count": 1,
+      "confidence": 0.701397
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 368,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -442,36 +1298,250 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "GOP congressman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998814,
+      "emotion": {
+        "sadness": 0.31633,
+        "joy": 0.07556,
+        "fear": 0.082998,
+        "disgust": 0.350637,
+        "anger": 0.470129
+      },
+      "count": 1
+    },
+    {
+      "text": "mask",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.037403,
+      "emotion": {
+        "sadness": 0.31633,
+        "joy": 0.07556,
+        "fear": 0.082998,
+        "disgust": 0.350637,
+        "anger": 0.470129
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#twatwaffle",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.31633,
+        "joy": 0.07556,
+        "fear": 0.082998,
+        "disgust": 0.350637,
+        "anger": 0.470129
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Organization",
+      "text": "GOP",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.467684,
+      "emotion": {
+        "sadness": 0.31633,
+        "joy": 0.07556,
+        "fear": 0.082998,
+        "disgust": 0.350637,
+        "anger": 0.470129
+      },
+      "count": 1,
+      "confidence": 0.995103
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 307,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "student-athlete",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998739,
+      "emotion": {
+        "sadness": 0.023786,
+        "joy": 0.68545,
+        "fear": 0.101786,
+        "disgust": 0.037426,
+        "anger": 0.088644
+      },
+      "count": 1
+    },
+    {
+      "text": "press release",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.859273,
+      "emotion": {
+        "sadness": 0.02288,
+        "joy": 0.70625,
+        "fear": 0.10779,
+        "disgust": 0.043699,
+        "anger": 0.086746
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Hoggard High School",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.02288,
+        "joy": 0.70625,
+        "fear": 0.10779,
+        "disgust": 0.043699,
+        "anger": 0.086746
+      },
+      "count": 1,
+      "confidence": 0.622235
+    },
+    {
+      "type": "Location",
+      "text": "New Hanover County",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.500658,
+      "emotion": {
+        "sadness": 0.02288,
+        "joy": 0.70625,
+        "fear": 0.10779,
+        "disgust": 0.043699,
+        "anger": 0.086746
+      },
+      "count": 1,
+      "confidence": 0.504725
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 173,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "habrían muerto tras contraer COVID-19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.990986,
+      "emotion": {
+        "sadness": 0.459758,
+        "joy": 0.234428,
+        "fear": 0.187889,
+        "disgust": 0.194852,
+        "anger": 0.041329
+      },
+      "count": 1
+    },
+    {
+      "text": "personas",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.844357,
+      "emotion": {
+        "sadness": 0.459758,
+        "joy": 0.234428,
+        "fear": 0.187889,
+        "disgust": 0.194852,
+        "anger": 0.041329
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 244,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Se Bolsonaro",
+      "sentiment": {
+        "score": -0.789901,
+        "label": "negative"
+      },
+      "relevance": 0.959828,
+      "emotion": {
+        "sadness": 0.013794,
+        "joy": 0.061191,
+        "fear": 0.056867,
+        "disgust": 0.033068,
+        "anger": 0.031084
+      },
+      "count": 1
+    },
+    {
+      "text": "Vai morrer muito petista",
+      "sentiment": {
+        "score": -0.961215,
+        "label": "negative"
+      },
+      "relevance": 0.814191,
+      "emotion": {
+        "sadness": 0.001216,
+        "joy": 0.034734,
+        "fear": 0.027154,
+        "disgust": 0.003614,
+        "anger": 0.011902
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 246,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -508,57 +1578,410 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "remote recruitment experts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.750367,
+      "emotion": {
+        "sadness": 0.106859,
+        "joy": 0.125467,
+        "fear": 0.079984,
+        "disgust": 0.042959,
+        "anger": 0.248027
+      },
+      "count": 1
+    },
+    {
+      "text": "last Panel Discussion",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706094,
+      "emotion": {
+        "sadness": 0.495826,
+        "joy": 0.151661,
+        "fear": 0.152488,
+        "disgust": 0.199152,
+        "anger": 0.080856
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Chiew",
+      "sentiment": {
+        "score": -0.641461,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.339892,
+        "joy": 0.15232,
+        "fear": 0.221212,
+        "disgust": 0.366009,
+        "anger": 0.177319
+      },
+      "count": 1,
+      "confidence": 0.938608
+    },
+    {
+      "type": "Location",
+      "text": "@daythree_co",
+      "sentiment": {
+        "score": -0.641461,
+        "label": "negative"
+      },
+      "relevance": 0.921115,
+      "emotion": {
+        "sadness": 0.339892,
+        "joy": 0.15232,
+        "fear": 0.221212,
+        "disgust": 0.366009,
+        "anger": 0.177319
+      },
+      "count": 1,
+      "confidence": 0.262222
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 189,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "y en familiares",
+      "sentiment": {
+        "score": -0.448664,
+        "label": "negative"
+      },
+      "relevance": 0.788802,
+      "emotion": {
+        "sadness": 0.039874,
+        "joy": 0.549433,
+        "fear": 0.119666,
+        "disgust": 0.0848,
+        "anger": 0.129181
+      },
+      "count": 1
+    },
+    {
+      "text": "muchos estar",
+      "sentiment": {
+        "score": -0.448664,
+        "label": "negative"
+      },
+      "relevance": 0.773231,
+      "emotion": {
+        "sadness": 0.039874,
+        "joy": 0.549433,
+        "fear": 0.119666,
+        "disgust": 0.0848,
+        "anger": 0.129181
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 253,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "ENTIRE reason",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.960099,
+      "emotion": {
+        "sadness": 0.220252,
+        "joy": 0.269798,
+        "fear": 0.132265,
+        "disgust": 0.04795,
+        "anger": 0.443836
+      },
+      "count": 1
+    },
+    {
+      "text": "Disease CONTROL",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.831333,
+      "emotion": {
+        "sadness": 0.318546,
+        "joy": 0.106708,
+        "fear": 0.193571,
+        "disgust": 0.015951,
+        "anger": 0.20721
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Centers for Disease CONTROL and PREVENTION",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.9999,
+      "emotion": {
+        "sadness": 0.318546,
+        "joy": 0.106708,
+        "fear": 0.193571,
+        "disgust": 0.015951,
+        "anger": 0.20721
+      },
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency",
+          "GovernmentalBody"
+        ],
+        "name": "Centers_for_Disease_Control_and_Prevention",
+        "dbpedia_resource": "http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention"
+      },
+      "count": 2,
+      "confidence": 0.999867
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 227,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "President Donald Trump's post",
+      "sentiment": {
+        "score": -0.803932,
+        "label": "negative"
+      },
+      "relevance": 0.966303,
+      "emotion": {
+        "sadness": 0.487096,
+        "joy": 0.06804,
+        "fear": 0.172449,
+        "disgust": 0.218593,
+        "anger": 0.138346
+      },
+      "count": 1
+    },
+    {
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.803932,
+        "label": "negative"
+      },
+      "relevance": 0.811719,
+      "emotion": {
+        "sadness": 0.487096,
+        "joy": 0.06804,
+        "fear": 0.172449,
+        "disgust": 0.218593,
+        "anger": 0.138346
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.803932,
+        "label": "negative"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.487096,
+        "joy": 0.06804,
+        "fear": 0.172449,
+        "disgust": 0.218593,
+        "anger": 0.138346
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald_Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1,
+      "confidence": 0.981537
+    },
+    {
+      "type": "Company",
+      "text": "Twitter",
+      "sentiment": {
+        "score": -0.803932,
+        "label": "negative"
+      },
+      "relevance": 0.707865,
+      "emotion": {
+        "sadness": 0.487096,
+        "joy": 0.06804,
+        "fear": 0.172449,
+        "disgust": 0.218593,
+        "anger": 0.138346
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "Organization",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1,
+      "confidence": 0.999472
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 19,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Focus",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709867,
+      "emotion": {
+        "sadness": 0.121892,
+        "joy": 0.686813,
+        "fear": 0.060845,
+        "disgust": 0.016173,
+        "anger": 0.007368
+      },
+      "count": 1
+    },
+    {
+      "text": "COVID-19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.290133,
+      "emotion": {
+        "sadness": 0.121892,
+        "joy": 0.686813,
+        "fear": 0.060845,
+        "disgust": 0.016173,
+        "anger": 0.007368
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 180,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COVID-19 patients",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.997286,
+      "emotion": {
+        "sadness": 0.752138,
+        "joy": 0.105128,
+        "fear": 0.027582,
+        "disgust": 0.113785,
+        "anger": 0.027954
+      },
+      "count": 1
+    },
+    {
+      "text": "recovery",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.591658,
+      "emotion": {
+        "sadness": 0.752138,
+        "joy": 0.105128,
+        "fear": 0.027582,
+        "disgust": 0.113785,
+        "anger": 0.027954
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "78%",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.752138,
+        "joy": 0.105128,
+        "fear": 0.027582,
+        "disgust": 0.113785,
+        "anger": 0.027954
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 291,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
       "type": "agentOf",
-      "sentence": "Connecticut COVID Cases Increase To 49,077 Deaths To 4,423 - Connecticut (2019-nCoV) - Recombinomics Inc. Connecticut COVID Cases Increase To  49,077 Deaths To 4,423 https://recombinomics.co/topic/11956-connecticut-covid-cases-increase-to-49077-deaths-to-4423/?do=findComment&comment=25551 \u2026",
+      "sentence": "Connecticut COVID Cases Increase To 49,077 Deaths To 4,423 - Connecticut (2019-nCoV) - Recombinomics Inc. Connecticut COVID Cases Increase To  49,077 Deaths To 4,423 https://recombinomics.co/topic/11956-connecticut-covid-cases-increase-to-49077-deaths-to-4423/?do=findComment&comment=25551 …",
       "score": 0.927591,
       "arguments": [
         {
@@ -591,7 +2014,7 @@
     },
     {
       "type": "populationOf",
-      "sentence": "Connecticut COVID Cases Increase To 49,077 Deaths To 4,423 - Connecticut (2019-nCoV) - Recombinomics Inc. Connecticut COVID Cases Increase To  49,077 Deaths To 4,423 https://recombinomics.co/topic/11956-connecticut-covid-cases-increase-to-49077-deaths-to-4423/?do=findComment&comment=25551 \u2026",
+      "sentence": "Connecticut COVID Cases Increase To 49,077 Deaths To 4,423 - Connecticut (2019-nCoV) - Recombinomics Inc. Connecticut COVID Cases Increase To  49,077 Deaths To 4,423 https://recombinomics.co/topic/11956-connecticut-covid-cases-increase-to-49077-deaths-to-4423/?do=findComment&comment=25551 …",
       "score": 0.548183,
       "arguments": [
         {
@@ -623,20 +2046,127 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Connecticut COVID Cases Increase",
+      "sentiment": {
+        "score": -0.810216,
+        "label": "negative"
+      },
+      "relevance": 0.999235,
+      "emotion": {
+        "sadness": 0.479369,
+        "joy": 0.062711,
+        "fear": 0.092155,
+        "disgust": 0.082737,
+        "anger": 0.163701
+      },
+      "count": 1
+    },
+    {
+      "text": "Connecticut",
+      "sentiment": {
+        "score": -0.810216,
+        "label": "negative"
+      },
+      "relevance": 0.66532,
+      "emotion": {
+        "sadness": 0.479369,
+        "joy": 0.062711,
+        "fear": 0.092155,
+        "disgust": 0.082737,
+        "anger": 0.163701
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Connecticut",
+      "sentiment": {
+        "score": -0.810216,
+        "label": "negative"
+      },
+      "relevance": 0.993399,
+      "emotion": {
+        "sadness": 0.479369,
+        "joy": 0.062711,
+        "fear": 0.092155,
+        "disgust": 0.082737,
+        "anger": 0.163701
+      },
+      "count": 3,
+      "confidence": 0.999998
+    },
+    {
+      "type": "Company",
+      "text": "Recombinomics Inc.",
+      "sentiment": {
+        "score": -0.810216,
+        "label": "negative"
+      },
+      "relevance": 0.765007,
+      "emotion": {
+        "sadness": 0.479369,
+        "joy": 0.062711,
+        "fear": 0.092155,
+        "disgust": 0.082737,
+        "anger": 0.163701
+      },
+      "count": 1,
+      "confidence": 0.91456
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 271,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "possible consequences",
+      "sentiment": {
+        "score": -0.630893,
+        "label": "negative"
+      },
+      "relevance": 0.906633,
+      "emotion": {
+        "sadness": 0.186226,
+        "joy": 0.218643,
+        "fear": 0.217026,
+        "disgust": 0.088038,
+        "anger": 0.130391
+      },
+      "count": 1
+    },
+    {
+      "text": "surgery complications",
+      "sentiment": {
+        "score": -0.925099,
+        "label": "negative"
+      },
+      "relevance": 0.843185,
+      "emotion": {
+        "sadness": 0.812646,
+        "joy": 0.006834,
+        "fear": 0.268251,
+        "disgust": 0.068639,
+        "anger": 0.045378
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 223,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -759,20 +2289,135 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Kodak stock",
+      "sentiment": {
+        "score": -0.768261,
+        "label": "negative"
+      },
+      "relevance": 0.885339,
+      "emotion": {
+        "sadness": 0.486024,
+        "joy": 0.101095,
+        "fear": 0.116789,
+        "disgust": 0.379495,
+        "anger": 0.151492
+      },
+      "count": 1
+    },
+    {
+      "text": "dollars",
+      "sentiment": {
+        "score": -0.768261,
+        "label": "negative"
+      },
+      "relevance": 0.547327,
+      "emotion": {
+        "sadness": 0.486024,
+        "joy": 0.101095,
+        "fear": 0.116789,
+        "disgust": 0.379495,
+        "anger": 0.151492
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@JoyAnnReid",
+      "sentiment": {
+        "score": -0.768261,
+        "label": "negative"
+      },
+      "relevance": 0.952545,
+      "emotion": {
+        "sadness": 0.486024,
+        "joy": 0.101095,
+        "fear": 0.116789,
+        "disgust": 0.379495,
+        "anger": 0.151492
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Company",
+      "text": "Kodak",
+      "sentiment": {
+        "score": -0.768261,
+        "label": "negative"
+      },
+      "relevance": 0.415562,
+      "emotion": {
+        "sadness": 0.486024,
+        "joy": 0.101095,
+        "fear": 0.116789,
+        "disgust": 0.379495,
+        "anger": 0.151492
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner",
+          "SoftwareDeveloper"
+        ],
+        "name": "Eastman_Kodak",
+        "dbpedia_resource": "http://dbpedia.org/resource/Eastman_Kodak"
+      },
+      "count": 1,
+      "confidence": 0.999553
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 18,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "dono",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582176,
+      "emotion": {
+        "sadness": 0.164527,
+        "joy": 0.151539,
+        "fear": 0.102866,
+        "disgust": 0.072571,
+        "anger": 0.090183
+      },
+      "count": 1
+    },
+    {
+      "text": "covid",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.417824,
+      "emotion": {
+        "sadness": 0.164527,
+        "joy": 0.151539,
+        "fear": 0.102866,
+        "disgust": 0.072571,
+        "anger": 0.090183
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 268,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -809,20 +2454,127 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "brew pubs",
+      "sentiment": {
+        "score": -0.989119,
+        "label": "negative"
+      },
+      "relevance": 0.725256,
+      "emotion": {
+        "sadness": 0.466227,
+        "joy": 0.024736,
+        "fear": 0.208034,
+        "disgust": 0.307831,
+        "anger": 0.312412
+      },
+      "count": 1
+    },
+    {
+      "text": "City Council",
+      "sentiment": {
+        "score": -0.989119,
+        "label": "negative"
+      },
+      "relevance": 0.674415,
+      "emotion": {
+        "sadness": 0.466227,
+        "joy": 0.024736,
+        "fear": 0.208034,
+        "disgust": 0.307831,
+        "anger": 0.312412
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "5G",
+      "sentiment": {
+        "score": -0.989119,
+        "label": "negative"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.466227,
+        "joy": 0.024736,
+        "fear": 0.208034,
+        "disgust": 0.307831,
+        "anger": 0.312412
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Organization",
+      "text": "City Council",
+      "sentiment": {
+        "score": -0.989119,
+        "label": "negative"
+      },
+      "relevance": 0.176888,
+      "emotion": {
+        "sadness": 0.466227,
+        "joy": 0.024736,
+        "fear": 0.208034,
+        "disgust": 0.307831,
+        "anger": 0.312412
+      },
+      "count": 1,
+      "confidence": 0.945954
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 84,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "covid ICU beds",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.846665,
+      "emotion": {
+        "sadness": 0.170039,
+        "joy": 0.113075,
+        "fear": 0.07487,
+        "disgust": 0.01961,
+        "anger": 0.08636
+      },
+      "count": 1
+    },
+    {
+      "text": "sense",
+      "sentiment": {
+        "score": -0.725872,
+        "label": "negative"
+      },
+      "relevance": 0.566587,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.179551,
+        "fear": 0.091248,
+        "disgust": 0.074744,
+        "anger": 0.088473
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 183,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -859,12 +2611,84 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Indian Love Song",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.981612,
+      "emotion": {
+        "sadness": 0.128201,
+        "joy": 0.849083,
+        "fear": 0.009329,
+        "disgust": 0.004276,
+        "anger": 0.00688
+      },
+      "count": 1
+    },
+    {
+      "text": "Grand Central Station",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.841448,
+      "emotion": {
+        "sadness": 0.096831,
+        "joy": 0.391772,
+        "fear": 0.051864,
+        "disgust": 0.196977,
+        "anger": 0.164673
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TelevisionShow",
+      "text": "Fox \"News",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.95577,
+      "emotion": {
+        "sadness": 0.242856,
+        "joy": 0.432077,
+        "fear": 0.08193,
+        "disgust": 0.225659,
+        "anger": 0.074256
+      },
+      "count": 1,
+      "confidence": 0.098953
+    },
+    {
+      "type": "GeographicFeature",
+      "text": "Root Canal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.512519,
+      "emotion": {
+        "sadness": 0.228479,
+        "joy": 0.401868,
+        "fear": 0.27968,
+        "disgust": 0.109342,
+        "anger": 0.104038
+      },
+      "count": 1,
+      "confidence": 0.456057
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 328,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -902,7 +2726,7 @@
     },
     {
       "type": "educatedAt",
-      "sentence": "Aspen Medical brought into St Basil's to stem COVID outbreak https://www.abc.net.au/radionational/programs/breakfast/aspen-brought-into-st-basils-to-stem-covid-outbreak/12501458 \u2026",
+      "sentence": "Aspen Medical brought into St Basil's to stem COVID outbreak https://www.abc.net.au/radionational/programs/breakfast/aspen-brought-into-st-basils-to-stem-covid-outbreak/12501458 …",
       "score": 0.498927,
       "arguments": [
         {
@@ -940,7 +2764,7 @@
     },
     {
       "type": "affectedBy",
-      "sentence": "Aspen Medical brought into St Basil's to stem COVID outbreak https://www.abc.net.au/radionational/programs/breakfast/aspen-brought-into-st-basils-to-stem-covid-outbreak/12501458 \u2026",
+      "sentence": "Aspen Medical brought into St Basil's to stem COVID outbreak https://www.abc.net.au/radionational/programs/breakfast/aspen-brought-into-st-basils-to-stem-covid-outbreak/12501458 …",
       "score": 0.303996,
       "arguments": [
         {
@@ -972,12 +2796,84 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "recent graduates",
+      "sentiment": {
+        "score": 0.301928,
+        "label": "positive"
+      },
+      "relevance": 0.898674,
+      "emotion": {
+        "sadness": 0.272734,
+        "joy": 0.547063,
+        "fear": 0.038333,
+        "disgust": 0.041196,
+        "anger": 0.041263
+      },
+      "count": 1
+    },
+    {
+      "text": "wonder Andrews",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.879767,
+      "emotion": {
+        "sadness": 0.504361,
+        "joy": 0.129748,
+        "fear": 0.125387,
+        "disgust": 0.382339,
+        "anger": 0.086274
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Northern Hospital",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.504361,
+        "joy": 0.129748,
+        "fear": 0.125387,
+        "disgust": 0.382339,
+        "anger": 0.086274
+      },
+      "count": 1,
+      "confidence": 0.443748
+    },
+    {
+      "type": "Organization",
+      "text": "Aspen Medical",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.867416,
+      "emotion": {
+        "sadness": 0.167663,
+        "joy": 0.177495,
+        "fear": 0.095821,
+        "disgust": 0.119439,
+        "anger": 0.051418
+      },
+      "count": 1,
+      "confidence": 0.673308
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 308,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -1047,18 +2943,90 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mitch McConnell",
+      "sentiment": {
+        "score": -0.649562,
+        "label": "negative"
+      },
+      "relevance": 0.988202,
+      "emotion": {
+        "sadness": 0.149224,
+        "joy": 0.204234,
+        "fear": 0.076267,
+        "disgust": 0.029232,
+        "anger": 0.117318
+      },
+      "count": 1
+    },
+    {
+      "text": "Democrats' COVID relief efforts",
+      "sentiment": {
+        "score": -0.649562,
+        "label": "negative"
+      },
+      "relevance": 0.778841,
+      "emotion": {
+        "sadness": 0.149224,
+        "joy": 0.204234,
+        "fear": 0.076267,
+        "disgust": 0.029232,
+        "anger": 0.117318
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@JoyAnnReid",
+      "sentiment": {
+        "score": -0.649562,
+        "label": "negative"
+      },
+      "relevance": 0.953262,
+      "emotion": {
+        "sadness": 0.149224,
+        "joy": 0.204234,
+        "fear": 0.076267,
+        "disgust": 0.029232,
+        "anger": 0.117318
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#TheReidOut",
+      "sentiment": {
+        "score": -0.649562,
+        "label": "negative"
+      },
+      "relevance": 0.73097,
+      "emotion": {
+        "sadness": 0.149224,
+        "joy": 0.204234,
+        "fear": 0.076267,
+        "disgust": 0.029232,
+        "anger": 0.117318
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 328,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
       "type": "populationOf",
-      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
-      "score": 0.61924,
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d …",
+      "score": 0.60907,
       "arguments": [
         {
           "text": "COVID-19",
@@ -1090,8 +3058,8 @@
     },
     {
       "type": "partOfMany",
-      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
-      "score": 0.495152,
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d …",
+      "score": 0.491155,
       "arguments": [
         {
           "text": "member",
@@ -1123,8 +3091,8 @@
     },
     {
       "type": "memberOf",
-      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
-      "score": 0.522141,
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d …",
+      "score": 0.551814,
       "arguments": [
         {
           "text": "member",
@@ -1156,8 +3124,8 @@
     },
     {
       "type": "hasAttribute",
-      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d \u2026",
-      "score": 0.441847,
+      "sentence": "Watch live: Health Minister Steven Miles is set to address media to provide updates on the state's COVID-19 cases, after a staff member at a Logan school tested positive https://www.couriermail.com.au/coronavirus/coronavirus-qld-health-minister-steven-miles-addresses-new-covid-case/news-story/e0754d042527298d46c588b2f769801d …",
+      "score": 0.411528,
       "arguments": [
         {
           "text": "Logan school",
@@ -1188,521 +3156,635 @@
       ]
     }
   ],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 117,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 95,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 56,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 132,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 231,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 95,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 75,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 256,
-    "features": 1
-  },
-  "relations": [
+  "language": "en",
+  "keywords": [
     {
-      "type": "partOf",
-      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
-      "score": 0.79845,
-      "arguments": [
-        {
-          "text": "schools",
-          "location": [
-            4,
-            11
-          ],
-          "entities": [
-            {
-              "type": "Organization",
-              "text": "schools",
-              "disambiguation": {
-                "subtype": [
-                  "Educational"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "text": "Our",
-          "location": [
-            0,
-            3
-          ],
-          "entities": [
-            {
-              "type": "Organization",
-              "text": "Our"
-            }
-          ]
-        }
-      ]
+      "text": "Health Minister Steven Miles",
+      "sentiment": {
+        "score": 0.912091,
+        "label": "positive"
+      },
+      "relevance": 0.907775,
+      "emotion": {
+        "sadness": 0.170912,
+        "joy": 0.530702,
+        "fear": 0.067618,
+        "disgust": 0.061505,
+        "anger": 0.026949
+      },
+      "count": 1
     },
     {
-      "type": "employedBy",
-      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
-      "score": 0.300897,
-      "arguments": [
-        {
-          "text": "I",
-          "location": [
-            38,
-            39
-          ],
-          "entities": [
-            {
-              "type": "Person",
-              "text": "I"
-            }
-          ]
-        },
-        {
-          "text": "schools",
-          "location": [
-            4,
-            11
-          ],
-          "entities": [
-            {
-              "type": "Organization",
-              "text": "schools",
-              "disambiguation": {
-                "subtype": [
-                  "Educational"
-                ]
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "agentOf",
-      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
-      "score": 0.80208,
-      "arguments": [
-        {
-          "text": "I",
-          "location": [
-            38,
-            39
-          ],
-          "entities": [
-            {
-              "type": "Person",
-              "text": "I"
-            }
-          ]
-        },
-        {
-          "text": "informed",
-          "location": [
-            48,
-            56
-          ],
-          "entities": [
-            {
-              "type": "EventCommunication",
-              "text": "informed"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "affectedBy",
-      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday \ud83e\udd2c",
-      "score": 0.577698,
-      "arguments": [
-        {
-          "text": "teachers",
-          "location": [
-            62,
-            70
-          ],
-          "entities": [
-            {
-              "type": "Person",
-              "text": "teachers"
-            }
-          ]
-        },
-        {
-          "text": "informed",
-          "location": [
-            48,
-            56
-          ],
-          "entities": [
-            {
-              "type": "EventCommunication",
-              "text": "informed"
-            }
-          ]
-        }
-      ]
+      "text": "staff member",
+      "sentiment": {
+        "score": 0.912091,
+        "label": "positive"
+      },
+      "relevance": 0.799145,
+      "emotion": {
+        "sadness": 0.170912,
+        "joy": 0.530702,
+        "fear": 0.067618,
+        "disgust": 0.061505,
+        "anger": 0.026949
+      },
+      "count": 1
     }
   ],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 276,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 146,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 135,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 189,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 307,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 274,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 77,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 268,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 110,
-    "features": 1
-  },
-  "relations": [
+  "entities": [
     {
-      "type": "hasAttribute",
-      "sentence": "What Back to School Might Look Like in the Age of Covid-19  https://twitter.com/i/events/1288909775368081416 \u2026",
-      "score": 0.470548,
-      "arguments": [
-        {
-          "text": "Age of",
-          "location": [
-            43,
-            49
-          ],
-          "entities": [
-            {
-              "type": "Organization",
-              "text": "Age of"
-            }
-          ]
-        },
-        {
-          "text": "https://twitter.com/i/events/",
-          "location": [
-            60,
-            89
-          ],
-          "entities": [
-            {
-              "type": "Web",
-              "text": "https://twitter.com/i/events/"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 156,
-    "features": 1
-  },
-  "relations": [
-    {
-      "type": "agentOf",
-      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
-      "score": 0.966845,
-      "arguments": [
-        {
-          "text": "mom",
-          "location": [
-            11,
-            14
-          ],
-          "entities": [
-            {
-              "type": "Person",
-              "text": "mom"
-            }
-          ]
-        },
-        {
-          "text": "told",
-          "location": [
-            15,
-            19
-          ],
-          "entities": [
-            {
-              "type": "EventCommunication",
-              "text": "told"
-            }
-          ]
-        }
-      ]
+      "type": "Person",
+      "text": "Health Minister Steven Miles",
+      "sentiment": {
+        "score": 0.912091,
+        "label": "positive"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.170912,
+        "joy": 0.530702,
+        "fear": 0.067618,
+        "disgust": 0.061505,
+        "anger": 0.026949
+      },
+      "count": 1,
+      "confidence": 0.479503
     },
     {
-      "type": "affectedBy",
-      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
-      "score": 0.938089,
-      "arguments": [
-        {
-          "text": "me",
-          "location": [
-            20,
-            22
-          ],
-          "entities": [
-            {
-              "type": "Person",
-              "text": "she"
-            }
-          ]
-        },
-        {
-          "text": "told",
-          "location": [
-            15,
-            19
-          ],
-          "entities": [
-            {
-              "type": "EventCommunication",
-              "text": "told"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "timeOf",
-      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
-      "score": 0.840852,
-      "arguments": [
-        {
-          "text": "today",
-          "location": [
-            35,
-            40
-          ],
-          "entities": [
-            {
-              "type": "Date",
-              "text": "today"
-            }
-          ]
-        },
-        {
-          "text": "told",
-          "location": [
-            15,
-            19
-          ],
-          "entities": [
-            {
-              "type": "EventCommunication",
-              "text": "told"
-            }
-          ]
-        }
-      ]
+      "type": "Facility",
+      "text": "Logan school",
+      "sentiment": {
+        "score": 0.912091,
+        "label": "positive"
+      },
+      "relevance": 0.651463,
+      "emotion": {
+        "sadness": 0.170912,
+        "joy": 0.530702,
+        "fear": 0.067618,
+        "disgust": 0.061505,
+        "anger": 0.026949
+      },
+      "count": 1,
+      "confidence": 0.336273
     }
-  ],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 116,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 65,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "BC",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.729688,
+      "emotion": {
+        "sadness": 0.083157,
+        "joy": 0.02671,
+        "fear": 0.116018,
+        "disgust": 0.004688,
+        "anger": 0.01504
+      },
+      "count": 1
+    },
+    {
+      "text": "AC",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.443301,
+      "emotion": {
+        "sadness": 0.083157,
+        "joy": 0.02671,
+        "fear": 0.116018,
+        "disgust": 0.004688,
+        "anger": 0.01504
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 52,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "hacer q",
+      "sentiment": {
+        "score": -0.96025,
+        "label": "negative"
+      },
+      "relevance": 0.98737,
+      "emotion": {
+        "sadness": 0.216355,
+        "joy": 0.058654,
+        "fear": 0.121269,
+        "disgust": 0.252007,
+        "anger": 0.188801
+      },
+      "count": 1
+    },
+    {
+      "text": "Este",
+      "sentiment": {
+        "score": -0.96025,
+        "label": "negative"
+      },
+      "relevance": 0.919812,
+      "emotion": {
+        "sadness": 0.216355,
+        "joy": 0.058654,
+        "fear": 0.121269,
+        "disgust": 0.252007,
+        "anger": 0.188801
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 63,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "dysentery",
+      "sentiment": {
+        "score": -0.692848,
+        "label": "negative"
+      },
+      "relevance": 0.812132,
+      "emotion": {
+        "sadness": 0.550697,
+        "joy": 0.007136,
+        "fear": 0.177498,
+        "disgust": 0.165009,
+        "anger": 0.408821
+      },
+      "count": 1
+    },
+    {
+      "text": "Covid",
+      "sentiment": {
+        "score": -0.692848,
+        "label": "negative"
+      },
+      "relevance": 0.650711,
+      "emotion": {
+        "sadness": 0.550697,
+        "joy": 0.007136,
+        "fear": 0.177498,
+        "disgust": 0.165009,
+        "anger": 0.408821
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "HealthCondition",
+      "text": "dysentery",
+      "sentiment": {
+        "score": -0.692848,
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.550697,
+        "joy": 0.007136,
+        "fear": 0.177498,
+        "disgust": 0.165009,
+        "anger": 0.408821
+      },
+      "count": 1,
+      "confidence": 0.847173
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 178,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "QUE NO CUNDA EL PÁNICO",
+      "sentiment": {
+        "score": -0.823954,
+        "label": "negative"
+      },
+      "relevance": 0.982572,
+      "emotion": {
+        "sadness": 0.17648,
+        "joy": 0.159705,
+        "fear": 0.108454,
+        "disgust": 0.086941,
+        "anger": 0.137696
+      },
+      "count": 1
+    },
+    {
+      "text": "de COVID-19 en",
+      "sentiment": {
+        "score": -0.719302,
+        "label": "negative"
+      },
+      "relevance": 0.877728,
+      "emotion": {
+        "sadness": 0.04523,
+        "joy": 0.201126,
+        "fear": 0.133117,
+        "disgust": 0.170041,
+        "anger": 0.042801
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@Marlins",
+      "sentiment": {
+        "score": -0.719302,
+        "label": "negative"
+      },
+      "relevance": 0.95577,
+      "emotion": {
+        "sadness": 0.04523,
+        "joy": 0.201126,
+        "fear": 0.133117,
+        "disgust": 0.170041,
+        "anger": 0.042801
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#MLB",
+      "sentiment": {
+        "score": -0.719302,
+        "label": "negative"
+      },
+      "relevance": 0.513918,
+      "emotion": {
+        "sadness": 0.04523,
+        "joy": 0.201126,
+        "fear": 0.133117,
+        "disgust": 0.170041,
+        "anger": 0.042801
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 159,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "de la mañana",
+      "sentiment": {
+        "score": -0.868952,
+        "label": "negative"
+      },
+      "relevance": 0.716665,
+      "emotion": {
+        "sadness": 0.120021,
+        "joy": 0.113918,
+        "fear": 0.196189,
+        "disgust": 0.309752,
+        "anger": 0.276188
+      },
+      "count": 1
+    },
+    {
+      "text": "te preocupes",
+      "sentiment": {
+        "score": -0.868952,
+        "label": "negative"
+      },
+      "relevance": 0.391782,
+      "emotion": {
+        "sadness": 0.120021,
+        "joy": 0.113918,
+        "fear": 0.196189,
+        "disgust": 0.309752,
+        "anger": 0.276188
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 241,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "COVID-19 crisis",
+      "sentiment": {
+        "score": -0.83016,
+        "label": "negative"
+      },
+      "relevance": 0.86579,
+      "emotion": {
+        "sadness": 0.333473,
+        "joy": 0.019017,
+        "fear": 0.658538,
+        "disgust": 0.078502,
+        "anger": 0.153269
+      },
+      "count": 1
+    },
+    {
+      "text": "Startups",
+      "sentiment": {
+        "score": 0.713493,
+        "label": "positive"
+      },
+      "relevance": 0.744375,
+      "emotion": {
+        "sadness": 0.046751,
+        "joy": 0.685214,
+        "fear": 0.13163,
+        "disgust": 0.048044,
+        "anger": 0.020178
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@KeepthelightO",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.096881,
+        "joy": 0.13914,
+        "fear": 0.081677,
+        "disgust": 0.01982,
+        "anger": 0.02929
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Company",
+      "text": "twitter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.440202,
+      "emotion": {
+        "sadness": 0.096881,
+        "joy": 0.13914,
+        "fear": 0.081677,
+        "disgust": 0.01982,
+        "anger": 0.02929
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "Organization",
+          "VentureFundedCompany"
+        ],
+        "name": "Twitter",
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      },
+      "count": 1,
+      "confidence": 0.76464
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 278,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "baking process",
+      "sentiment": {
+        "score": -0.908341,
+        "label": "negative"
+      },
+      "relevance": 0.944219,
+      "emotion": {
+        "sadness": 0.345659,
+        "joy": 0.35991,
+        "fear": 0.090179,
+        "disgust": 0.046924,
+        "anger": 0.200741
+      },
+      "count": 1
+    },
+    {
+      "text": "instructions",
+      "sentiment": {
+        "score": -0.908341,
+        "label": "negative"
+      },
+      "relevance": 0.598196,
+      "emotion": {
+        "sadness": 0.345659,
+        "joy": 0.35991,
+        "fear": 0.090179,
+        "disgust": 0.046924,
+        "anger": 0.200741
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 62,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "dream",
+      "sentiment": {
+        "score": -0.81426,
+        "label": "negative"
+      },
+      "relevance": 0.937512,
+      "emotion": {
+        "sadness": 0.094377,
+        "joy": 0.451384,
+        "fear": 0.056568,
+        "disgust": 0.011965,
+        "anger": 0.051198
+      },
+      "count": 1
+    },
+    {
+      "text": "Covid",
+      "sentiment": {
+        "score": -0.81426,
+        "label": "negative"
+      },
+      "relevance": 0.301436,
+      "emotion": {
+        "sadness": 0.094377,
+        "joy": 0.451384,
+        "fear": 0.056568,
+        "disgust": 0.011965,
+        "anger": 0.051198
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 39,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "weeks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.644458,
+      "emotion": {
+        "sadness": 0.462067,
+        "joy": 0.23046,
+        "fear": 0.137525,
+        "disgust": 0.059444,
+        "anger": 0.128298
+      },
+      "count": 1
+    },
+    {
+      "text": "COVID",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.515793,
+      "emotion": {
+        "sadness": 0.462067,
+        "joy": 0.23046,
+        "fear": 0.137525,
+        "disgust": 0.059444,
+        "anger": 0.128298
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "3 weeks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.462067,
+        "joy": 0.23046,
+        "fear": 0.137525,
+        "disgust": 0.059444,
+        "anger": 0.128298
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 74,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Não era da esquerda",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999679,
+      "emotion": {
+        "sadness": 0.144253,
+        "joy": 0.107552,
+        "fear": 0.086134,
+        "disgust": 0.121298,
+        "anger": 0.111678
+      },
+      "count": 1
+    },
+    {
+      "text": "tag",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.625611,
+      "emotion": {
+        "sadness": 0.144253,
+        "joy": 0.107552,
+        "fear": 0.086134,
+        "disgust": 0.121298,
+        "anger": 0.111678
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 169,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -1772,34 +3854,133 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "deaths",
+      "sentiment": {
+        "score": -0.502335,
+        "label": "negative"
+      },
+      "relevance": 0.631262,
+      "emotion": {
+        "sadness": 0.697726,
+        "joy": 0.012951,
+        "fear": 0.289406,
+        "disgust": 0.157362,
+        "anger": 0.145457
+      },
+      "count": 1
+    },
+    {
+      "text": "lot",
+      "sentiment": {
+        "score": -0.603247,
+        "label": "negative"
+      },
+      "relevance": 0.615602,
+      "emotion": {
+        "sadness": 0.640378,
+        "joy": 0.224162,
+        "fear": 0.169013,
+        "disgust": 0.041331,
+        "anger": 0.040545
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 107,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
-}{
-  "usage": {
-    "text_units": 1,
-    "text_characters": 153,
-    "features": 1
-  },
-  "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Covid art",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999936,
+      "emotion": {
+        "sadness": 0.186537,
+        "joy": 0.521208,
+        "fear": 0.010189,
+        "disgust": 0.021679,
+        "anger": 0.086507
+      },
+      "count": 1
+    },
+    {
+      "text": "music",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.736395,
+      "emotion": {
+        "sadness": 0.186537,
+        "joy": 0.521208,
+        "fear": 0.010189,
+        "disgust": 0.021679,
+        "anger": 0.086507
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "TwitterHandle",
+      "text": "@MrWebstersClass",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.186537,
+        "joy": 0.521208,
+        "fear": 0.010189,
+        "disgust": 0.021679,
+        "anger": 0.086507
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "TwitterHandle",
+      "text": "@MusiikkiCafe",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.650738,
+      "emotion": {
+        "sadness": 0.186537,
+        "joy": 0.521208,
+        "fear": 0.010189,
+        "disgust": 0.021679,
+        "anger": 0.086507
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 99,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
       "type": "hasAttribute",
       "sentence": "19 year died of Covid and she suffered from asthma.",
-      "score": 0.837672,
+      "score": 0.51478,
       "arguments": [
         {
           "text": "she",
@@ -1831,7 +4012,7 @@
     },
     {
       "type": "relative",
-      "sentence": "\ud83e\udd7a\ud83e\udd7a my condolences to her family and loved ones.",
+      "sentence": "🥺🥺 my condolences to her family and loved ones.",
       "score": 0.45941,
       "arguments": [
         {
@@ -1863,34 +4044,196 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "year",
+      "sentiment": {
+        "score": -0.928012,
+        "label": "negative"
+      },
+      "relevance": 0.802149,
+      "emotion": {
+        "sadness": 0.847338,
+        "joy": 0.012949,
+        "fear": 0.278112,
+        "disgust": 0.036083,
+        "anger": 0.05086
+      },
+      "count": 1
+    },
+    {
+      "text": "condolences",
+      "sentiment": {
+        "score": -0.679942,
+        "label": "negative"
+      },
+      "relevance": 0.760324,
+      "emotion": {
+        "sadness": 0.535315,
+        "joy": 0.414246,
+        "fear": 0.010691,
+        "disgust": 0.013212,
+        "anger": 0.023888
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "19 year",
+      "sentiment": {
+        "score": -0.928012,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.847338,
+        "joy": 0.012949,
+        "fear": 0.278112,
+        "disgust": 0.036083,
+        "anger": 0.05086
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "HealthCondition",
+      "text": "asthma",
+      "sentiment": {
+        "score": -0.928012,
+        "label": "negative"
+      },
+      "relevance": 0.271048,
+      "emotion": {
+        "sadness": 0.847338,
+        "joy": 0.012949,
+        "fear": 0.278112,
+        "disgust": 0.036083,
+        "anger": 0.05086
+      },
+      "count": 1,
+      "confidence": 0.998787
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 124,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Di belahan dunia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.985678,
+      "emotion": {
+        "sadness": 0.153126,
+        "joy": 0.054636,
+        "fear": 0.162556,
+        "disgust": 0.127669,
+        "anger": 0.149819
+      },
+      "count": 1
+    },
+    {
+      "text": "Tp pada kenyataannya negative",
+      "sentiment": {
+        "score": -0.94837,
+        "label": "negative"
+      },
+      "relevance": 0.789126,
+      "emotion": {
+        "sadness": 0.29869,
+        "joy": 0.562796,
+        "fear": 0.023087,
+        "disgust": 0.043914,
+        "anger": 0.016783
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Dan mereka juga reaktif",
+      "sentiment": {
+        "score": -0.430877,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.276247,
+        "joy": 0.108382,
+        "fear": 0.036304,
+        "disgust": 0.329304,
+        "anger": 0.094378
+      },
+      "count": 1,
+      "confidence": 0.736347
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 160,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "honest people",
+      "sentiment": {
+        "score": -0.690572,
+        "label": "negative"
+      },
+      "relevance": 0.892902,
+      "emotion": {
+        "sadness": 0.642215,
+        "joy": 0.039389,
+        "fear": 0.13072,
+        "disgust": 0.218454,
+        "anger": 0.262906
+      },
+      "count": 1
+    },
+    {
+      "text": "people",
+      "sentiment": {
+        "score": -0.690572,
+        "label": "negative"
+      },
+      "relevance": 0.685354,
+      "emotion": {
+        "sadness": 0.642215,
+        "joy": 0.039389,
+        "fear": 0.13072,
+        "disgust": 0.218454,
+        "anger": 0.262906
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 256,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
       "type": "parentOf",
       "sentence": "My wonderful much loved mother in law died last year in her nineties and we miss her terribly.",
-      "score": 0.388492,
+      "score": 0.3432,
       "arguments": [
         {
           "text": "My",
@@ -1915,39 +4258,6 @@
             {
               "type": "Person",
               "text": "mother"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "diedOn",
-      "sentence": "My wonderful much loved mother in law died last year in her nineties and we miss her terribly.",
-      "score": 0.487531,
-      "arguments": [
-        {
-          "text": "mother",
-          "location": [
-            24,
-            30
-          ],
-          "entities": [
-            {
-              "type": "Person",
-              "text": "mother"
-            }
-          ]
-        },
-        {
-          "text": "last year",
-          "location": [
-            43,
-            52
-          ],
-          "entities": [
-            {
-              "type": "Date",
-              "text": "last year"
             }
           ]
         }
@@ -1987,17 +4297,89 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "wonderful much loved mother",
+      "sentiment": {
+        "score": 0.368892,
+        "label": "positive"
+      },
+      "relevance": 0.993961,
+      "emotion": {
+        "sadness": 0.6435,
+        "joy": 0.322166,
+        "fear": 0.068266,
+        "disgust": 0.018702,
+        "anger": 0.023106
+      },
+      "count": 1
+    },
+    {
+      "text": "needless death",
+      "sentiment": {
+        "score": -0.962194,
+        "label": "negative"
+      },
+      "relevance": 0.747553,
+      "emotion": {
+        "sadness": 0.82917,
+        "joy": 0.007289,
+        "fear": 0.162044,
+        "disgust": 0.144337,
+        "anger": 0.113007
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "10 years",
+      "sentiment": {
+        "score": -0.837653,
+        "label": "negative"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.891237,
+        "joy": 0.028375,
+        "fear": 0.117244,
+        "disgust": 0.054332,
+        "anger": 0.037364
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#covid",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.295537,
+      "emotion": {
+        "sadness": 0.226664,
+        "joy": 0.021942,
+        "fear": 0.280439,
+        "disgust": 0.066446,
+        "anger": 0.458081
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 242,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
       "type": "agentOf",
-      "sentence": "These brave doctors just said ... HCQ and Zinc is the COVID-19 Cure!!!  ... 1) HCQ - 200mg, twice per  week ... 2) Zinc - Daily!!! ...  That's it, clear and simply truth!!! \ud83d\ude4f\ud83d\ude4c\ud83e\udd2d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f https://twitter.com/x22report/status/1287834119263719424 \u2026",
+      "sentence": "These brave doctors just said ... HCQ and Zinc is the COVID-19 Cure!!!  ... 1) HCQ - 200mg, twice per  week ... 2) Zinc - Daily!!! ...  That's it, clear and simply truth!!! 🙏🙌🤭👏👏👏👏👏👏👏 https://twitter.com/X22Report/status/1287834119263719424 …",
       "score": 0.921346,
       "arguments": [
         {
@@ -2029,76 +4411,610 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "brave doctors",
+      "sentiment": {
+        "score": 0.710458,
+        "label": "positive"
+      },
+      "relevance": 0.945586,
+      "emotion": {
+        "sadness": 0.223723,
+        "joy": 0.53911,
+        "fear": 0.079414,
+        "disgust": 0.144369,
+        "anger": 0.039084
+      },
+      "count": 1
+    },
+    {
+      "text": "COVID-19 Cure",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.729227,
+      "emotion": {
+        "sadness": 0.129735,
+        "joy": 0.335423,
+        "fear": 0.032098,
+        "disgust": 0.017687,
+        "anger": 0.010633
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "200mg",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.05072,
+        "joy": 0.03871,
+        "fear": 0.063465,
+        "disgust": 0.083041,
+        "anger": 0.045906
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Person",
+      "text": "🙏🙌",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78922,
+      "emotion": {
+        "sadness": 0.032335,
+        "joy": 0.735569,
+        "fear": 0.083961,
+        "disgust": 0.119148,
+        "anger": 0.017147
+      },
+      "count": 1,
+      "confidence": 0.706696
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 87,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "games",
+      "sentiment": {
+        "score": -0.933765,
+        "label": "negative"
+      },
+      "relevance": 0.59568,
+      "emotion": {
+        "sadness": 0.262588,
+        "joy": 0.096376,
+        "fear": 0.129842,
+        "disgust": 0.07199,
+        "anger": 0.362808
+      },
+      "count": 1
+    },
+    {
+      "text": "Covid",
+      "sentiment": {
+        "score": -0.963548,
+        "label": "negative"
+      },
+      "relevance": 0.592717,
+      "emotion": {
+        "sadness": 0.821983,
+        "joy": 0.01004,
+        "fear": 0.072444,
+        "disgust": 0.167642,
+        "anger": 0.192168
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 193,
+    "features": 3
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "i just had to call the doctor to ask how much the covid test is out of pocket and it's 200 for the test and  90 for the results (: https://twitter.com/People4Bernie/status/1287848244135907328 …",
+      "score": 0.71632,
+      "arguments": [
+        {
+          "text": "doctor",
+          "location": [
+            23,
+            29
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "doctor"
+            }
+          ]
+        },
+        {
+          "text": "ask",
+          "location": [
+            33,
+            36
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "ask"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "covid test",
+      "sentiment": {
+        "score": -0.552313,
+        "label": "negative"
+      },
+      "relevance": 0.921328,
+      "emotion": {
+        "sadness": 0.071229,
+        "joy": 0.477386,
+        "fear": 0.151616,
+        "disgust": 0.056081,
+        "anger": 0.122879
+      },
+      "count": 1
+    },
+    {
+      "text": "doctor",
+      "sentiment": {
+        "score": -0.552313,
+        "label": "negative"
+      },
+      "relevance": 0.667099,
+      "emotion": {
+        "sadness": 0.071229,
+        "joy": 0.477386,
+        "fear": 0.151616,
+        "disgust": 0.056081,
+        "anger": 0.122879
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 226,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Que difícil de entender",
+      "sentiment": {
+        "score": -0.356534,
+        "label": "negative"
+      },
+      "relevance": 0.862521,
+      "emotion": {
+        "sadness": 0.235562,
+        "joy": 0.408024,
+        "fear": 0.146696,
+        "disgust": 0.137151,
+        "anger": 0.035888
+      },
+      "count": 1
+    },
+    {
+      "text": "DistanciamientoSocial #Covid_19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.824875,
+      "emotion": {
+        "sadness": 0.108608,
+        "joy": 0.229519,
+        "fear": 0.04272,
+        "disgust": 0.06008,
+        "anger": 0.099089
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#DistanciamientoSocial",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.95577,
+      "emotion": {
+        "sadness": 0.108608,
+        "joy": 0.229519,
+        "fear": 0.04272,
+        "disgust": 0.06008,
+        "anger": 0.099089
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#Covid_19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.807669,
+      "emotion": {
+        "sadness": 0.108608,
+        "joy": 0.229519,
+        "fear": 0.04272,
+        "disgust": 0.06008,
+        "anger": 0.099089
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 151,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "apenas outra gripe",
+      "sentiment": {
+        "score": -0.83518,
+        "label": "negative"
+      },
+      "relevance": 0.569456,
+      "emotion": {
+        "sadness": 0.246491,
+        "joy": 0.227761,
+        "fear": 0.113868,
+        "disgust": 0.077237,
+        "anger": 0.067308
+      },
+      "count": 1
+    },
+    {
+      "text": "Fernández prorroga quarentena na Argentina e diz que covid-19 'não",
+      "sentiment": {
+        "score": -0.83518,
+        "label": "negative"
+      },
+      "relevance": 0.430544,
+      "emotion": {
+        "sadness": 0.246491,
+        "joy": 0.227761,
+        "fear": 0.113868,
+        "disgust": 0.077237,
+        "anger": 0.067308
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Argentina",
+      "sentiment": {
+        "score": -0.83518,
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.246491,
+        "joy": 0.227761,
+        "fear": 0.113868,
+        "disgust": 0.077237,
+        "anger": 0.067308
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "Country",
+          "GovernmentalJurisdiction"
+        ],
+        "name": "Argentina",
+        "dbpedia_resource": "http://dbpedia.org/resource/Argentina"
+      },
+      "count": 1,
+      "confidence": 0.507621
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 187,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "l La",
+      "sentiment": {
+        "score": -0.51443,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.385563,
+        "joy": 0.1485,
+        "fear": 0.33671,
+        "disgust": 0.117649,
+        "anger": 0.024641
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#LoÚltimo",
+      "sentiment": {
+        "score": -0.51443,
+        "label": "negative"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.385563,
+        "joy": 0.1485,
+        "fear": 0.33671,
+        "disgust": 0.117649,
+        "anger": 0.024641
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#Tlayacapan",
+      "sentiment": {
+        "score": -0.51443,
+        "label": "negative"
+      },
+      "relevance": 0.779654,
+      "emotion": {
+        "sadness": 0.385563,
+        "joy": 0.1485,
+        "fear": 0.33671,
+        "disgust": 0.117649,
+        "anger": 0.024641
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 253,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "vegan dinner",
+      "sentiment": {
+        "score": 0.942218,
+        "label": "positive"
+      },
+      "relevance": 0.784844,
+      "emotion": {
+        "sadness": 0.059412,
+        "joy": 0.503678,
+        "fear": 0.078802,
+        "disgust": 0.171875,
+        "anger": 0.062871
+      },
+      "count": 1
+    },
+    {
+      "text": "pizza",
+      "sentiment": {
+        "score": -0.775788,
+        "label": "negative"
+      },
+      "relevance": 0.634481,
+      "emotion": {
+        "sadness": 0.595113,
+        "joy": 0.032961,
+        "fear": 0.179552,
+        "disgust": 0.195238,
+        "anger": 0.157943
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 220,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump republicans hate science bc",
+      "sentiment": {
+        "score": -0.98479,
+        "label": "negative"
+      },
+      "relevance": 0.993012,
+      "emotion": {
+        "sadness": 0.164728,
+        "joy": 0.008115,
+        "fear": 0.079862,
+        "disgust": 0.174393,
+        "anger": 0.833504
+      },
+      "count": 1
+    },
+    {
+      "text": "reason",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.64523,
+      "emotion": {
+        "sadness": 0.305501,
+        "joy": 0.295028,
+        "fear": 0.05779,
+        "disgust": 0.242791,
+        "anger": 0.230906
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#TrumpHatesSciencehttps",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 78,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "y Cajica",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.833751,
+      "emotion": {
+        "sadness": 0.127404,
+        "joy": 0.113103,
+        "fear": 0.11027,
+        "disgust": 0.079388,
+        "anger": 0.100189
+      },
+      "count": 1
+    },
+    {
+      "text": "Y cuantos muertos por Covid en las mansiones entre Chia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.409768,
+      "emotion": {
+        "sadness": 0.127404,
+        "joy": 0.113103,
+        "fear": 0.11027,
+        "disgust": 0.079388,
+        "anger": 0.100189
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 60,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Eso",
+      "sentiment": {
+        "score": -0.982754,
+        "label": "negative"
+      },
+      "relevance": 0.957921,
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.17854,
+        "fear": 0.102803,
+        "disgust": 0.111837,
+        "anger": 0.090723
+      },
+      "count": 1
+    },
+    {
+      "text": "Covid-19",
+      "sentiment": {
+        "score": -0.982754,
+        "label": "negative"
+      },
+      "relevance": 0.274907,
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.17854,
+        "fear": 0.102803,
+        "disgust": 0.111837,
+        "anger": 0.090723
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 294,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -2135,52 +5051,317 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Mosque leaders",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.81921,
+      "emotion": {
+        "sadness": 0.238765,
+        "joy": 0.069286,
+        "fear": 0.239154,
+        "disgust": 0.295084,
+        "anger": 0.296331
+      },
+      "count": 1
+    },
+    {
+      "text": "ie non-whites",
+      "sentiment": {
+        "score": -0.884261,
+        "label": "negative"
+      },
+      "relevance": 0.795875,
+      "emotion": {
+        "sadness": 0.319419,
+        "joy": 0.075417,
+        "fear": 0.473619,
+        "disgust": 0.168692,
+        "anger": 0.191984
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 181,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "chill pill",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.743315,
+      "emotion": {
+        "sadness": 0.095887,
+        "joy": 0.610467,
+        "fear": 0.090067,
+        "disgust": 0.041457,
+        "anger": 0.039078
+      },
+      "count": 1
+    },
+    {
+      "text": "game",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.683695,
+      "emotion": {
+        "sadness": 0.095887,
+        "joy": 0.610467,
+        "fear": 0.090067,
+        "disgust": 0.041457,
+        "anger": 0.039078
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 96,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "cuantas",
+      "sentiment": {
+        "score": -0.870961,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.130558,
+        "joy": 0.164345,
+        "fear": 0.110798,
+        "disgust": 0.243075,
+        "anger": 0.040681
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 113,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "puny crowd",
+      "sentiment": {
+        "score": -0.939395,
+        "label": "negative"
+      },
+      "relevance": 0.988158,
+      "emotion": {
+        "sadness": 0.280127,
+        "joy": 0.173204,
+        "fear": 0.027095,
+        "disgust": 0.419447,
+        "anger": 0.298676
+      },
+      "count": 1
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.939395,
+        "label": "negative"
+      },
+      "relevance": 0.982775,
+      "emotion": {
+        "sadness": 0.280127,
+        "joy": 0.173204,
+        "fear": 0.027095,
+        "disgust": 0.419447,
+        "anger": 0.298676
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.939395,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.280127,
+        "joy": 0.173204,
+        "fear": 0.027095,
+        "disgust": 0.419447,
+        "anger": 0.298676
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald_Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 1,
+      "confidence": 0.972255
+    },
+    {
+      "type": "Location",
+      "text": "Florida",
+      "sentiment": {
+        "score": -0.939395,
+        "label": "negative"
+      },
+      "relevance": 0.413657,
+      "emotion": {
+        "sadness": 0.280127,
+        "joy": 0.173204,
+        "fear": 0.027095,
+        "disgust": 0.419447,
+        "anger": 0.298676
+      },
+      "count": 1,
+      "confidence": 0.963411
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 155,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "kung mamalasin ka pa",
+      "sentiment": {
+        "score": 0.947937,
+        "label": "positive"
+      },
+      "relevance": 0.996363,
+      "emotion": {
+        "sadness": 0.002595,
+        "joy": 0.03678,
+        "fear": 0.001948,
+        "disgust": 0.001508,
+        "anger": 0.024946
+      },
+      "count": 1
+    },
+    {
+      "text": "Ahm bitch",
+      "sentiment": {
+        "score": -0.456452,
+        "mixed": "1",
+        "label": "negative"
+      },
+      "relevance": 0.318973,
+      "emotion": {
+        "sadness": 0.09131,
+        "joy": 0.003076,
+        "fear": 0.062625,
+        "disgust": 0.22037,
+        "anger": 0.873936
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "alis ng alis dito",
+      "sentiment": {
+        "score": 0.825774,
+        "label": "positive"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.140466,
+        "joy": 0.179758,
+        "fear": 0.093654,
+        "disgust": 0.068855,
+        "anger": 0.08686
+      },
+      "count": 1,
+      "confidence": 0.475904
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 58,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Haha thats whats",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.999085,
+      "emotion": {
+        "sadness": 0.059991,
+        "joy": 0.752109,
+        "fear": 0.202626,
+        "disgust": 0.006936,
+        "anger": 0.016683
+      },
+      "count": 1
+    },
+    {
+      "text": "fall-owers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.090007,
+      "emotion": {
+        "sadness": 0.059991,
+        "joy": 0.752109,
+        "fear": 0.202626,
+        "disgust": 0.006936,
+        "anger": 0.016683
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 142,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -2326,28 +5507,170 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "little different",
+      "sentiment": {
+        "score": 0.544757,
+        "label": "positive"
+      },
+      "relevance": 0.999604,
+      "emotion": {
+        "sadness": 0.259995,
+        "joy": 0.197966,
+        "fear": 0.103998,
+        "disgust": 0.100386,
+        "anger": 0.127926
+      },
+      "count": 1
+    },
+    {
+      "text": "visitors",
+      "sentiment": {
+        "score": -0.955457,
+        "label": "negative"
+      },
+      "relevance": 0.613833,
+      "emotion": {
+        "sadness": 0.721634,
+        "joy": 0.007717,
+        "fear": 0.142585,
+        "disgust": 0.238234,
+        "anger": 0.213741
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 223,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Covid numbers",
+      "sentiment": {
+        "score": -0.986961,
+        "label": "negative"
+      },
+      "relevance": 0.870328,
+      "emotion": {
+        "sadness": 0.517915,
+        "joy": 0.005614,
+        "fear": 0.058238,
+        "disgust": 0.10209,
+        "anger": 0.555315
+      },
+      "count": 1
+    },
+    {
+      "text": "People",
+      "sentiment": {
+        "score": -0.986961,
+        "label": "negative"
+      },
+      "relevance": 0.720956,
+      "emotion": {
+        "sadness": 0.517915,
+        "joy": 0.005614,
+        "fear": 0.058238,
+        "disgust": 0.10209,
+        "anger": 0.555315
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 205,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "own COVID testing plan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.908667,
+      "emotion": {
+        "sadness": 0.72795,
+        "joy": 0.079401,
+        "fear": 0.19526,
+        "disgust": 0.034454,
+        "anger": 0.094011
+      },
+      "count": 1
+    },
+    {
+      "text": "Pure EVIL",
+      "sentiment": {
+        "score": -0.928981,
+        "label": "negative"
+      },
+      "relevance": 0.817685,
+      "emotion": {
+        "sadness": 0.022289,
+        "joy": 0.461242,
+        "fear": 0.06979,
+        "disgust": 0.064144,
+        "anger": 0.494928
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#GOPGenocide",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.953262,
+      "emotion": {
+        "sadness": 0.72795,
+        "joy": 0.079401,
+        "fear": 0.19526,
+        "disgust": 0.034454,
+        "anger": 0.094011
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#CrimesAgainstHumanity",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.884296,
+      "emotion": {
+        "sadness": 0.72795,
+        "joy": 0.079401,
+        "fear": 0.19526,
+        "disgust": 0.034454,
+        "anger": 0.094011
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 147,
-    "features": 1
+    "features": 3
   },
   "relations": [
     {
@@ -2385,7 +5708,7 @@
     },
     {
       "type": "awardedTo",
-      "sentence": "\ud83d\ude2d\ud83d\ude22\ud83d\ude2d Can't even sing her favorite song on her burial day for her.",
+      "sentence": "😭😢😭 Can't even sing her favorite song on her burial day for her.",
       "score": 0.60958,
       "arguments": [
         {
@@ -2417,29 +5740,1511 @@
       ]
     }
   ],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "favorite song",
+      "sentiment": {
+        "score": -0.95155,
+        "label": "negative"
+      },
+      "relevance": 0.961583,
+      "emotion": {
+        "sadness": 0.730504,
+        "joy": 0.261141,
+        "fear": 0.036339,
+        "disgust": 0.029416,
+        "anger": 0.000995
+      },
+      "count": 1
+    },
+    {
+      "text": "COVID shit",
+      "sentiment": {
+        "score": -0.973721,
+        "label": "negative"
+      },
+      "relevance": 0.846915,
+      "emotion": {
+        "sadness": 0.377752,
+        "joy": 0.003411,
+        "fear": 0.057718,
+        "disgust": 0.285159,
+        "anger": 0.623361
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "😭😢😭",
+      "sentiment": {
+        "score": -0.95155,
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.730504,
+        "joy": 0.261141,
+        "fear": 0.036339,
+        "disgust": 0.029416,
+        "anger": 0.000995
+      },
+      "count": 1,
+      "confidence": 0.512058
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 275,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "next dumb reply",
+      "sentiment": {
+        "score": -0.913114,
+        "label": "negative"
+      },
+      "relevance": 0.946691,
+      "emotion": {
+        "sadness": 0.450726,
+        "joy": 0.001712,
+        "fear": 0.153339,
+        "disgust": 0.251495,
+        "anger": 0.517631
+      },
+      "count": 1
+    },
+    {
+      "text": "college student",
+      "sentiment": {
+        "score": -0.951124,
+        "label": "negative"
+      },
+      "relevance": 0.87237,
+      "emotion": {
+        "sadness": 0.607954,
+        "joy": 0.055435,
+        "fear": 0.109054,
+        "disgust": 0.160522,
+        "anger": 0.347133
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#MAGAts",
+      "sentiment": {
+        "score": -0.951124,
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.607954,
+        "joy": 0.055435,
+        "fear": 0.109054,
+        "disgust": 0.160522,
+        "anger": 0.347133
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 85,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "mañana cuando todos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.975701,
+      "emotion": {
+        "sadness": 0.020022,
+        "joy": 0.047427,
+        "fear": 0.05409,
+        "disgust": 0.017829,
+        "anger": 0.012655
+      },
+      "count": 1
+    },
+    {
+      "text": "y seremos potencia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.024299,
+      "emotion": {
+        "sadness": 0.020022,
+        "joy": 0.047427,
+        "fear": 0.05409,
+        "disgust": 0.017829,
+        "anger": 0.012655
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }{
   "usage": {
     "text_units": 1,
     "text_characters": 274,
-    "features": 1
+    "features": 3
   },
   "relations": [],
-  "language": "en"
+  "language": "en",
+  "keywords": [
+    {
+      "text": "healthy folks",
+      "sentiment": {
+        "score": 0.712882,
+        "label": "positive"
+      },
+      "relevance": 0.867136,
+      "emotion": {
+        "sadness": 0.068175,
+        "joy": 0.772581,
+        "fear": 0.135781,
+        "disgust": 0.014208,
+        "anger": 0.030113
+      },
+      "count": 1
+    },
+    {
+      "text": "states",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.600925,
+      "emotion": {
+        "sadness": 0.44613,
+        "joy": 0.060698,
+        "fear": 0.189327,
+        "disgust": 0.082192,
+        "anger": 0.082695
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 117,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Office Post-COVID-19 #CRE",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.942404,
+      "emotion": {
+        "sadness": 0.039109,
+        "joy": 0.371928,
+        "fear": 0.048474,
+        "disgust": 0.051553,
+        "anger": 0.115913
+      },
+      "count": 1
+    },
+    {
+      "text": "Roadmap",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78292,
+      "emotion": {
+        "sadness": 0.039109,
+        "joy": 0.371928,
+        "fear": 0.048474,
+        "disgust": 0.051553,
+        "anger": 0.115913
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#CRE",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.954265,
+      "emotion": {
+        "sadness": 0.039109,
+        "joy": 0.371928,
+        "fear": 0.048474,
+        "disgust": 0.051553,
+        "anger": 0.115913
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Hashtag",
+      "text": "#COVID",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888181,
+      "emotion": {
+        "sadness": 0.039109,
+        "joy": 0.371928,
+        "fear": 0.048474,
+        "disgust": 0.051553,
+        "anger": 0.115913
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "covid times",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.907285,
+      "emotion": {
+        "sadness": 0.460365,
+        "joy": 0.30004,
+        "fear": 0.197179,
+        "disgust": 0.046056,
+        "anger": 0.129893
+      },
+      "count": 1
+    },
+    {
+      "text": "Shrek",
+      "sentiment": {
+        "score": -0.650482,
+        "label": "negative"
+      },
+      "relevance": 0.834328,
+      "emotion": {
+        "sadness": 0.32581,
+        "joy": 0.329479,
+        "fear": 0.144873,
+        "disgust": 0.092701,
+        "anger": 0.095125
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 56,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "children",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.937512,
+      "emotion": {
+        "sadness": 0.388177,
+        "joy": 0.067632,
+        "fear": 0.283535,
+        "disgust": 0.144423,
+        "anger": 0.056861
+      },
+      "count": 1
+    },
+    {
+      "text": "covid-19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.278106,
+      "emotion": {
+        "sadness": 0.388177,
+        "joy": 0.067632,
+        "fear": 0.283535,
+        "disgust": 0.144423,
+        "anger": 0.056861
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 132,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "segue resumo",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.992406,
+      "emotion": {
+        "sadness": 0.19349,
+        "joy": 0.412648,
+        "fear": 0.073213,
+        "disgust": 0.090397,
+        "anger": 0.046746
+      },
+      "count": 1
+    },
+    {
+      "text": "galera",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.377234,
+      "emotion": {
+        "sadness": 0.19349,
+        "joy": 0.412648,
+        "fear": 0.073213,
+        "disgust": 0.090397,
+        "anger": 0.046746
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 231,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Luego aparece como",
+      "sentiment": {
+        "score": -0.659132,
+        "label": "negative"
+      },
+      "relevance": 0.977757,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.180392,
+        "fear": 0.094969,
+        "disgust": 0.078893,
+        "anger": 0.088473
+      },
+      "count": 1
+    },
+    {
+      "text": "Esa es su táctica",
+      "sentiment": {
+        "score": 0.581999,
+        "label": "positive"
+      },
+      "relevance": 0.708047,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.180597,
+        "fear": 0.091248,
+        "disgust": 0.074744,
+        "anger": 0.080101
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "su táctica",
+      "sentiment": {
+        "score": 0.581999,
+        "label": "positive"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.180597,
+        "fear": 0.091248,
+        "disgust": 0.074744,
+        "anger": 0.080101
+      },
+      "count": 1,
+      "confidence": 0.237324
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 95,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Un bajón",
+      "sentiment": {
+        "score": -0.520435,
+        "label": "negative"
+      },
+      "relevance": 0.999398,
+      "emotion": {
+        "sadness": 0.213313,
+        "joy": 0.023018,
+        "fear": 0.132436,
+        "disgust": 0.427118,
+        "anger": 0.290681
+      },
+      "count": 1
+    },
+    {
+      "text": "COVID",
+      "sentiment": {
+        "score": -0.648188,
+        "label": "negative"
+      },
+      "relevance": 0.000602,
+      "emotion": {
+        "sadness": 0.221348,
+        "joy": 0.444333,
+        "fear": 0.116063,
+        "disgust": 0.097056,
+        "anger": 0.03901
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "La Plata",
+      "sentiment": {
+        "score": -0.648188,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.221348,
+        "joy": 0.444333,
+        "fear": 0.116063,
+        "disgust": 0.097056,
+        "anger": 0.03901
+      },
+      "count": 1,
+      "confidence": 0.124137
+    },
+    {
+      "type": "Organization",
+      "text": "Un",
+      "sentiment": {
+        "score": -0.520435,
+        "label": "negative"
+      },
+      "relevance": 0.104682,
+      "emotion": {
+        "sadness": 0.213313,
+        "joy": 0.023018,
+        "fear": 0.132436,
+        "disgust": 0.427118,
+        "anger": 0.290681
+      },
+      "count": 1,
+      "confidence": 0.625733
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 75,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "extra extra points",
+      "sentiment": {
+        "score": -0.573553,
+        "label": "negative"
+      },
+      "relevance": 1,
+      "emotion": {
+        "sadness": 0.809956,
+        "joy": 0.02798,
+        "fear": 0.078172,
+        "disgust": 0.040538,
+        "anger": 0.159209
+      },
+      "count": 1
+    },
+    {
+      "text": "non believer",
+      "sentiment": {
+        "score": -0.573553,
+        "label": "negative"
+      },
+      "relevance": 0.000244,
+      "emotion": {
+        "sadness": 0.809956,
+        "joy": 0.02798,
+        "fear": 0.078172,
+        "disgust": 0.040538,
+        "anger": 0.159209
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 256,
+    "features": 3
+  },
+  "relations": [
+    {
+      "type": "partOf",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday 🤬",
+      "score": 0.79845,
+      "arguments": [
+        {
+          "text": "schools",
+          "location": [
+            4,
+            11
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "schools",
+              "disambiguation": {
+                "subtype": [
+                  "Educational"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "text": "Our",
+          "location": [
+            0,
+            3
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Our"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "employedBy",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday 🤬",
+      "score": 0.300897,
+      "arguments": [
+        {
+          "text": "I",
+          "location": [
+            38,
+            39
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "I"
+            }
+          ]
+        },
+        {
+          "text": "schools",
+          "location": [
+            4,
+            11
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "schools",
+              "disambiguation": {
+                "subtype": [
+                  "Educational"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "agentOf",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday 🤬",
+      "score": 0.80208,
+      "arguments": [
+        {
+          "text": "I",
+          "location": [
+            38,
+            39
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "I"
+            }
+          ]
+        },
+        {
+          "text": "informed",
+          "location": [
+            48,
+            56
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "informed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "affectedBy",
+      "sentence": "Our schools have been back 2 days and I've been informed that teachers were given spray that is known to be ineffective to Covid, classrooms & buses not cleaned due to lack of custodial staff & freshmen being quarantined following orientation last Friday 🤬",
+      "score": 0.577698,
+      "arguments": [
+        {
+          "text": "teachers",
+          "location": [
+            62,
+            70
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "teachers"
+            }
+          ]
+        },
+        {
+          "text": "informed",
+          "location": [
+            48,
+            56
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "informed"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "lack of custodial staff",
+      "sentiment": {
+        "score": -0.977178,
+        "label": "negative"
+      },
+      "relevance": 0.805575,
+      "emotion": {
+        "sadness": 0.251647,
+        "joy": 0.171375,
+        "fear": 0.085281,
+        "disgust": 0.053222,
+        "anger": 0.161127
+      },
+      "count": 1
+    },
+    {
+      "text": "schools",
+      "sentiment": {
+        "score": -0.977178,
+        "label": "negative"
+      },
+      "relevance": 0.698895,
+      "emotion": {
+        "sadness": 0.251647,
+        "joy": 0.171375,
+        "fear": 0.085281,
+        "disgust": 0.053222,
+        "anger": 0.161127
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Quantity",
+      "text": "2 days",
+      "sentiment": {
+        "score": -0.977178,
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.251647,
+        "joy": 0.171375,
+        "fear": 0.085281,
+        "disgust": 0.053222,
+        "anger": 0.161127
+      },
+      "count": 1,
+      "confidence": 0.8
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 276,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "public health order",
+      "sentiment": {
+        "score": 0.620315,
+        "label": "positive"
+      },
+      "relevance": 0.735664,
+      "emotion": {
+        "sadness": 0.269606,
+        "joy": 0.257619,
+        "fear": 0.117789,
+        "disgust": 0.095,
+        "anger": 0.180743
+      },
+      "count": 1
+    },
+    {
+      "text": "uncomfortable things",
+      "sentiment": {
+        "score": -0.922619,
+        "label": "negative"
+      },
+      "relevance": 0.64401,
+      "emotion": {
+        "sadness": 0.133072,
+        "joy": 0.124909,
+        "fear": 0.154159,
+        "disgust": 0.068034,
+        "anger": 0.234569
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 146,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "care of business affairs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.951387,
+      "emotion": {
+        "sadness": 0.089635,
+        "joy": 0.20615,
+        "fear": 0.053305,
+        "disgust": 0.072533,
+        "anger": 0.131369
+      },
+      "count": 1
+    },
+    {
+      "text": "others",
+      "sentiment": {
+        "score": 0.649053,
+        "label": "positive"
+      },
+      "relevance": 0.58183,
+      "emotion": {
+        "sadness": 0.190078,
+        "joy": 0.196687,
+        "fear": 0.03701,
+        "disgust": 0.229538,
+        "anger": 0.038497
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 135,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "loucura",
+      "sentiment": {
+        "score": -0.988284,
+        "label": "negative"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.173718,
+        "joy": 0.153313,
+        "fear": 0.143269,
+        "disgust": 0.078644,
+        "anger": 0.070841
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 189,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Informe diario sobre coronavirus COVID-19",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.14269,
+        "joy": 0.200048,
+        "fear": 0.084775,
+        "disgust": 0.082166,
+        "anger": 0.104503
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Hashtag",
+      "text": "#IrzaVivo",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.958279,
+      "emotion": {
+        "sadness": 0.14269,
+        "joy": 0.200048,
+        "fear": 0.084775,
+        "disgust": 0.082166,
+        "anger": 0.104503
+      },
+      "count": 1,
+      "confidence": 0.8
+    },
+    {
+      "type": "Person",
+      "text": "jueves",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.749252,
+      "emotion": {
+        "sadness": 0.250238,
+        "joy": 0.445764,
+        "fear": 0.145939,
+        "disgust": 0.101982,
+        "anger": 0.026529
+      },
+      "count": 1,
+      "confidence": 0.955829
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 307,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "late Herman Cain",
+      "sentiment": {
+        "score": -0.716533,
+        "label": "negative"
+      },
+      "relevance": 0.986709,
+      "emotion": {
+        "sadness": 0.244142,
+        "joy": 0.028678,
+        "fear": 0.32826,
+        "disgust": 0.178248,
+        "anger": 0.577511
+      },
+      "count": 1
+    },
+    {
+      "text": "SnpPIA0z7T",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.710227,
+      "emotion": {
+        "sadness": 0.143332,
+        "joy": 0.246965,
+        "fear": 0.046697,
+        "disgust": 0.096196,
+        "anger": 0.109033
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Herman Cain",
+      "sentiment": {
+        "score": -0.716533,
+        "label": "negative"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.244142,
+        "joy": 0.028678,
+        "fear": 0.32826,
+        "disgust": 0.178248,
+        "anger": 0.577511
+      },
+      "disambiguation": {
+        "subtype": [
+          "BroadcastArtist"
+        ],
+        "name": "Herman_Cain",
+        "dbpedia_resource": "http://dbpedia.org/resource/Herman_Cain"
+      },
+      "count": 1,
+      "confidence": 0.989272
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.419447,
+      "emotion": {
+        "sadness": 0.296945,
+        "joy": 0.106719,
+        "fear": 0.090785,
+        "disgust": 0.161783,
+        "anger": 0.153465
+      },
+      "count": 1,
+      "confidence": 0.966933
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 274,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "negative COVID-19 result",
+      "sentiment": {
+        "score": 0.903328,
+        "label": "positive"
+      },
+      "relevance": 0.950015,
+      "emotion": {
+        "sadness": 0.430557,
+        "joy": 0.502609,
+        "fear": 0.028296,
+        "disgust": 0.004044,
+        "anger": 0.035429
+      },
+      "count": 1
+    },
+    {
+      "text": "good idea",
+      "sentiment": {
+        "score": 0.903328,
+        "label": "positive"
+      },
+      "relevance": 0.904362,
+      "emotion": {
+        "sadness": 0.430557,
+        "joy": 0.502609,
+        "fear": 0.028296,
+        "disgust": 0.004044,
+        "anger": 0.035429
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 77,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Se",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.5,
+      "emotion": {
+        "sadness": 0.013015,
+        "joy": 0.060321,
+        "fear": 0.047512,
+        "disgust": 0.02502,
+        "anger": 0.029575
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 268,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Black people",
+      "sentiment": {
+        "score": -0.933162,
+        "label": "negative"
+      },
+      "relevance": 0.942531,
+      "emotion": {
+        "sadness": 0.729245,
+        "joy": 0.038366,
+        "fear": 0.123498,
+        "disgust": 0.228134,
+        "anger": 0.151226
+      },
+      "count": 1
+    },
+    {
+      "text": "August 28th March",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.811641,
+      "emotion": {
+        "sadness": 0.425046,
+        "joy": 0.038985,
+        "fear": 0.015136,
+        "disgust": 0.063381,
+        "anger": 0.041707
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "DC",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.963296,
+      "emotion": {
+        "sadness": 0.425046,
+        "joy": 0.038985,
+        "fear": 0.015136,
+        "disgust": 0.063381,
+        "anger": 0.041707
+      },
+      "count": 1,
+      "confidence": 0.981268
+    },
+    {
+      "type": "Location",
+      "text": "Washington",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.881392,
+      "emotion": {
+        "sadness": 0.425046,
+        "joy": 0.038985,
+        "fear": 0.015136,
+        "disgust": 0.063381,
+        "anger": 0.041707
+      },
+      "count": 1,
+      "confidence": 0.999643
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 110,
+    "features": 3
+  },
+  "relations": [
+    {
+      "type": "hasAttribute",
+      "sentence": "What Back to School Might Look Like in the Age of Covid-19  https://twitter.com/i/events/1288909775368081416 …",
+      "score": 0.43789,
+      "arguments": [
+        {
+          "text": "Age of",
+          "location": [
+            43,
+            49
+          ],
+          "entities": [
+            {
+              "type": "Organization",
+              "text": "Age of"
+            }
+          ]
+        },
+        {
+          "text": "https://twitter.com/i/events/",
+          "location": [
+            60,
+            89
+          ],
+          "entities": [
+            {
+              "type": "Web",
+              "text": "https://twitter.com/i/events/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "School",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.919812,
+      "emotion": {
+        "sadness": 0.257709,
+        "joy": 0.242104,
+        "fear": 0.257825,
+        "disgust": 0.117912,
+        "anger": 0.132868
+      },
+      "count": 1
+    },
+    {
+      "text": "Age of Covid-19  https://twitter.com/i/events/1288909775368081416",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.887818,
+      "emotion": {
+        "sadness": 0.257709,
+        "joy": 0.242104,
+        "fear": 0.257825,
+        "disgust": 0.117912,
+        "anger": 0.132868
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 156,
+    "features": 3
+  },
+  "relations": [
+    {
+      "type": "agentOf",
+      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
+      "score": 0.966845,
+      "arguments": [
+        {
+          "text": "mom",
+          "location": [
+            11,
+            14
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "mom"
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "location": [
+            15,
+            19
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "told"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "affectedBy",
+      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
+      "score": 0.938089,
+      "arguments": [
+        {
+          "text": "me",
+          "location": [
+            20,
+            22
+          ],
+          "entities": [
+            {
+              "type": "Person",
+              "text": "she"
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "location": [
+            15,
+            19
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "told"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "timeOf",
+      "sentence": "My uncle's mom told me on Facebook today she's read more than me when it comes to Covid.",
+      "score": 0.840852,
+      "arguments": [
+        {
+          "text": "today",
+          "location": [
+            35,
+            40
+          ],
+          "entities": [
+            {
+              "type": "Date",
+              "text": "today"
+            }
+          ]
+        },
+        {
+          "text": "told",
+          "location": [
+            15,
+            19
+          ],
+          "entities": [
+            {
+              "type": "EventCommunication",
+              "text": "told"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "uncle's mom",
+      "sentiment": {
+        "score": -0.689731,
+        "label": "negative"
+      },
+      "relevance": 0.992879,
+      "emotion": {
+        "sadness": 0.246873,
+        "joy": 0.491273,
+        "fear": 0.182162,
+        "disgust": 0.057512,
+        "anger": 0.034597
+      },
+      "count": 1
+    },
+    {
+      "text": "Facebook today",
+      "sentiment": {
+        "score": -0.689731,
+        "label": "negative"
+      },
+      "relevance": 0.715846,
+      "emotion": {
+        "sadness": 0.246873,
+        "joy": 0.491273,
+        "fear": 0.182162,
+        "disgust": 0.057512,
+        "anger": 0.034597
+      },
+      "count": 1
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": -0.689731,
+        "label": "negative"
+      },
+      "relevance": 0.978348,
+      "emotion": {
+        "sadness": 0.246873,
+        "joy": 0.491273,
+        "fear": 0.182162,
+        "disgust": 0.057512,
+        "anger": 0.034597
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "Organization",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 1,
+      "confidence": 0.990176
+    }
+  ]
+}{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 116,
+    "features": 3
+  },
+  "relations": [],
+  "language": "en",
+  "keywords": [
+    {
+      "text": "reinfection rate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.998161,
+      "emotion": {
+        "sadness": 0.286278,
+        "joy": 0.071142,
+        "fear": 0.236697,
+        "disgust": 0.091256,
+        "anger": 0.124516
+      },
+      "count": 1
+    },
+    {
+      "text": "dude",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587994,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.179551,
+        "fear": 0.091248,
+        "disgust": 0.074744,
+        "anger": 0.088473
+      },
+      "count": 1
+    }
+  ],
+  "entities": []
 }

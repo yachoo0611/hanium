@@ -20,3 +20,13 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
+
+
+class covid_tweet_data(models.Model):
+    usage=models.CharField(max_length=300)
+    """
+    keyword=models.CharField(max_length=100)
+    relation=models.CharField(max_length=100)
+    entities=models.CharField(max_length=100)
+    confidence=models.CharField(max_length=100)
+    """
