@@ -4,11 +4,11 @@ from django.utils import timezone
 
 
 class Post(models.Model):
-    author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
+    author = models.CharField(max_length=200,db_column='author')
     title = models.CharField(max_length=200)
     contents = models.TextField()
     categorized_contents = models.TextField()
-    score = models.IntegerField()
+    score = models.FloatField()
     created_date = models.DateTimeField(
             default=timezone.now)
     published_date = models.DateTimeField(
@@ -20,13 +20,3 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
-
-
-class covid_tweet_data(models.Model):
-    usage=models.CharField(max_length=300)
-    """
-    keyword=models.CharField(max_length=100)
-    relation=models.CharField(max_length=100)
-    entities=models.CharField(max_length=100)
-    confidence=models.CharField(max_length=100)
-    """
