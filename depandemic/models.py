@@ -13,6 +13,7 @@ class Post(models.Model):
     contents = models.TextField(null=True)
     categorized_contents = models.TextField(null=True)
     score = models.IntegerField(null=True)
+    imageurl = models.CharField(max_length=500,null=True)
     created_date = models.DateTimeField(
             default=timezone.now)
     published_date = models.DateTimeField(

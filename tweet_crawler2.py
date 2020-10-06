@@ -32,20 +32,22 @@ natural_language_understanding.set_service_url(
     'https://api.kr-seo.natural-language-understanding.watson.cloud.ibm.com/instances/f85b9cf9-3ab1-477c-8627-5dd173ced2c1')
 
 def twitter_crwaler():
-    
+    pre_time=datetime.datetime.now()+ datetime.timedelta(days=-7)
+    pre_time = str(pre_time)
     send_data = {}
     end_data2 = []
     cursor = tweepy.Cursor(api.search, 
                         q='코로나',
-                        since='2020-09-23', # 2020-09-08 이후에 작성된 트윗들로 가져옴
+                        since=pre_time[:11], # 2020-09-08 이후에 작성된 트윗들로 가져옴
                         count=2  # 페이지당 반환할 트위터 수 1
                         ).items(50) #최대 100개 까지만
     for i, tweet in enumerate(cursor):
         #print("{}: {}".format(i, tweet.text))
         send_data['location'] = "Unknown"
         send_data['categorized'] = ""
-        send_data['score'] = ""
-
+        send_data['score'] = 0
+        
+        
         response = natural_language_understanding.analyze(
             text=tweet.text,
             features=Features(
@@ -71,7 +73,12 @@ def twitter_crwaler():
         send_data['contents'] = tweet.text
         send_data['created'] = tweet.created_at
         send_data['published'] = datetime.datetime.now()
-
+        send_data['imageurl'] = ""
+        try:
+            send_data['imageurl'] = tweet.entities['media'][0]['media_url']
+        except (NameError, KeyError):
+            #we dont want to have any entries without the media_url so lets do nothing
+            pass
         dictionary_copy = send_data.copy()
         end_data2.append(dictionary_copy)
 
@@ -81,6 +88,6 @@ def twitter_crwaler():
 if __name__=='__main__':
     data1 = twitter_crwaler()
     for x in data1:
-        Post(author=x['author'],identifier=0,location=x['location'],title=x['title'],contents=x['contents'],created_date=x['created'],
-             published_date=x['published'],categorized_contents=x['categorized'],score=x['score']).save()
+        Post(author=x['author'],location=x['location'],title=x['title'],contents=x['contents'],created_date=x['created'],
+             identifier=0,published_date=x['published'],categorized_contents=x['categorized'],score=x['score'],imageurl=x['imageurl']).save()
 
