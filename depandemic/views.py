@@ -19,8 +19,17 @@ def index(request):
     tweet_posts = Post.objects.all().filter(identifier=0).order_by('-created_date')[:1]#트위터 가장 최근글
     tweet_counts = Post.objects.all().filter(identifier=0).order_by('title')
     images =  Post.objects.exclude(imageurl__isnull=True).exclude(imageurl__exact='').exclude(imageurl__exact=' ')#트위터 이미지 게시글
-    
-    return render(request, 'depandemic/index.html', {'form': 'form', 'posts': posts, 'dposts':dposts, 'total':total, 'tweet_posts':tweet_posts, 'images':images, 'tweet_counts': tweet_counts})
 
+    # -----------------------------------------------------------------------------------------------------------
+    posts2 = Post.objects.all().filter(identifier=1).order_by('created_date')[:100]
+    # location_re = Post.objects.all.filter(location!='Unknown')
+    facebook_posts = Post.objects.all().filter(identifier=1).order_by('created_date')[:1]
+    facebook_counts = Post.objects.all().filter(identifier=1).order_by('title')
 
-    #return render(request, 'depandemic/index.html')
+    return render(request, 'depandemic/index.html',
+                  {'form': 'form', 'posts': posts, 'dposts': dposts, 'total': total, 'tweet_posts': tweet_posts,
+                   'images': images, 'tweet_counts': tweet_counts,
+                   'posts2': posts2, 'facebook_posts': facebook_posts, 'facebook_counts': facebook_counts})
+
+    #return render(request, 'depandemic/index.html', {'form': 'form', 'posts': posts, 'dposts':dposts, 'total':total, 'tweet_posts':tweet_posts, 'images':images, 'tweet_counts': tweet_counts})
+

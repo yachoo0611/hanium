@@ -40,7 +40,7 @@ def twitter_crwaler():
                         q='코로나',
                         since=pre_time[:11], # 2020-09-08 이후에 작성된 트윗들로 가져옴
                         count=2  # 페이지당 반환할 트위터 수 1
-                        ).items(50) #최대 100개 까지만
+                        ).items(100) #최대 100개 까지만
     for i, tweet in enumerate(cursor):
         #print("{}: {}".format(i, tweet.text))
         send_data['location'] = "Unknown"

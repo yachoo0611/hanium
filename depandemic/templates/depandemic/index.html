@@ -101,7 +101,7 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">1,463</span>
+              <span data-toggle="counter-up">{{facebook_counts.count}}</span>
               <p>Facebook</p>
             </div>
           </div>
@@ -168,14 +168,13 @@
             {% endfor %}
             <h3 class="resume-title">Facebook</h3>
             <div class="resume-item">
-              <h4>나는놀고싶다님</h4>
-              <h5>2020.08.04 게시</h5>
-              <p><em>양양 해수욕장에서 코로나 환자 발생. 마스크 좀 쓰자</em></p>
+              {% for facebook_post in facebook_posts %}
+              <h4>{{ facebook_post.author }}</h4>
+              <p><em>{{ facebook_post.contents }}</em></p>
               <ul>
-                <li>양양</li>
-                <li>부정적</li>
-                <li>해수욕장</li>
+                <li>{{ facebook_post.categorized_contents }}</li>
               </ul>
+            {% endfor %}
             </div>
           </div>
           <div class="col-lg-6">
