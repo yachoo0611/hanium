@@ -103,7 +103,7 @@ def instagram_crawler():
     #target = 9                                                                                          # 크롤링할 게시물 수
 
     driver = webdriver.Chrome("C:/Users/yechan/hanium/main/chromedriver.exe")                #진황 로컬 파일경로 #driver = webdriver.Chrome("C:\\Users\\chan\\Desktop\\Coding\\cmder\\main\\chromedriver.exe")       #찬우 로컬 파일경로
-    keyword = '코로나'                                                                                     #검색키워드
+    keyword = '가락동맛집'                                                                                     #검색키워드
     url = insta_searching(keyword)
     driver.get(url)
     time.sleep(4)
@@ -122,7 +122,7 @@ def instagram_crawler():
          data = get_content(driver)  # 게시물 정보 가져오기
          results.append(data)
 
-         if data['date'] == "2020-10-21":        #한국 업로드 시간과 해외 업로드시간이 차이가 나서 기준을 정해야 할듯 현 기준은 해외기준은 그리니치 표준시로 되어있음
+         if data['date'] == "2020-10-29":        #한국 업로드 시간과 해외 업로드시간이 차이가 나서 기준을 정해야 할듯 현 기준은 해외기준은 그리니치 표준시로 되어있음
              move_next(driver)
          else:
              break
