@@ -26,10 +26,23 @@ def index(request):
     facebook_posts = Post.objects.all().filter(identifier=1).order_by('created_date')[:1]
     facebook_counts = Post.objects.all().filter(identifier=1).order_by('title')
 
+    #----------------------------------------------------------------------------------------------
+
+    posts3 = Post.objects.all().filter(identifier=2).order_by('created_date')[:100]
+    # location_re = Post.objects.all.filter(location!='Unknown')
+    instagram_posts = Post.objects.all().filter(identifier=2).order_by('created_date')[:1]
+    instagram_counts = Post.objects.all().filter(identifier=2).order_by('title')
+
     return render(request, 'depandemic/index.html',
                   {'form': 'form', 'posts': posts, 'dposts': dposts, 'total': total, 'tweet_posts': tweet_posts,
                    'images': images, 'tweet_counts': tweet_counts,
-                   'posts2': posts2, 'facebook_posts': facebook_posts, 'facebook_counts': facebook_counts})
+                   'posts2': posts2, 'facebook_posts': facebook_posts, 'facebook_counts': facebook_counts,
+                   'posts3': posts3, 'instagram_posts': instagram_posts, 'instagram_counts': instagram_counts
+                   })
+    # return render(request, 'depandemic/index.html',
+    #               {'form': 'form', 'posts': posts, 'dposts': dposts, 'total': total, 'tweet_posts': tweet_posts,
+    #                'images': images, 'tweet_counts': tweet_counts,
+    #                'posts2': posts2, 'facebook_posts': facebook_posts, 'facebook_counts': facebook_counts})
 
     #return render(request, 'depandemic/index.html', {'form': 'form', 'posts': posts, 'dposts':dposts, 'total':total, 'tweet_posts':tweet_posts, 'images':images, 'tweet_counts': tweet_counts})
 
