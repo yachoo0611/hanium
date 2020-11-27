@@ -47,8 +47,8 @@ def facebook_crawler():
     password = driver.find_element_by_xpath("//input[@name='pass']")
     btn = driver.find_element_by_xpath("//*[@id='u_0_b']")
     #이메일 비밀번호 입력하세용   + 접속시 최신 UI 기준으로 xpath설정했으니 과거 UI로 접속되는 아이디는 에러남.
-    email.send_keys("dpcksdl3@naver.com")
-    password.send_keys("hanium119")
+    email.send_keys("")
+    password.send_keys("")
     btn.click()
     # 키워드 검색하기
     searchbox = driver.find_element_by_xpath("//*[@id='mount_0_0']/div/div[1]/div[1]/div[2]/div[2]/div/div/div/div/label")
