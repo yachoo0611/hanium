@@ -109,7 +109,7 @@ def instagram_crawler():
     time.sleep(4)
 
     natural_language_understanding = ibm_watson_set()
-    instagram_login('jiiinang', 'chl2425!?')                                                            #로그인함수 호출 => 아이디 비밀번호 매개변수
+    instagram_login('', '')                                                            #로그인함수 호출 => 아이디 비밀번호 매개변수
     select_recent_post(driver)
 
     #for i in range(target):                                                #갯수로 게시글 크롤링해올때
